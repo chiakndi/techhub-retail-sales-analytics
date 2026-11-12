@@ -118,8 +118,8 @@ techhub-retail-analytics/
 **On your computer**
 
 ```bash
-git clone https://github.com/chiakndi/techhub-retail-analytics.git
-cd techhub-retail-analytics
+git clone https://github.com/chiakndi/techhub-retail-sales-analytics.git
+cd techhub-retail-sales-analytics
 python -m pip install -r requirements.txt
 jupyter notebook TechHub_Retail_Analysis_Colab.ipynb
 ```
