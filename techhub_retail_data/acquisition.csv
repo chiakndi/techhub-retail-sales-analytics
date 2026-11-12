@@ -1,0 +1,1301 @@
+customer_id,acquisition_date,channel,campaign,acquisition_cost_eur
+CUS00001,2023-09-05,Organic Search,Organic_Search_2023,8.04
+CUS00002,2023-07-14,Organic Search,Organic_Search_2023,10.56
+CUS00003,2024-01-15,Referral,Referral_2024,21.8
+CUS00004,2024-09-20,Direct,Direct_2024,3.97
+CUS00005,2023-08-06,Organic Search,Organic_Search_2023,5.67
+CUS00006,2025-02-24,Meta Ads,Meta_Ads_2025,28.3
+CUS00007,2024-08-14,Meta Ads,Meta_Ads_2024,41.97
+CUS00008,2024-02-10,Referral,Referral_2024,19.79
+CUS00009,2024-06-14,Meta Ads,Meta_Ads_2024,39.82
+CUS00010,2024-09-18,Email,Email_2024,12.93
+CUS00011,2023-07-04,Meta Ads,Meta_Ads_2023,44.43
+CUS00012,2024-03-13,Direct,Direct_2024,6.0
+CUS00013,2024-05-07,Organic Search,Organic_Search_2024,7.87
+CUS00014,2025-07-16,Meta Ads,Meta_Ads_2025,54.4
+CUS00015,2024-10-14,Organic Search,Organic_Search_2024,10.11
+CUS00016,2023-02-13,Meta Ads,Meta_Ads_2023,27.65
+CUS00017,2024-04-05,Google Search,Google_Search_2024,44.0
+CUS00018,2023-01-18,Google Search,Google_Search_2023,46.11
+CUS00019,2023-08-11,Meta Ads,Meta_Ads_2023,28.5
+CUS00020,2023-12-05,Direct,Direct_2023,4.51
+CUS00021,2023-02-05,Organic Search,Organic_Search_2023,7.23
+CUS00022,2024-03-17,Referral,Referral_2024,17.54
+CUS00023,2023-12-22,Referral,Referral_2023,21.42
+CUS00024,2024-05-09,Google Search,Google_Search_2024,27.01
+CUS00025,2024-05-19,Organic Search,Organic_Search_2024,6.1
+CUS00026,2025-02-07,Google Search,Google_Search_2025,47.2
+CUS00027,2023-06-09,Direct,Direct_2023,6.63
+CUS00028,2023-10-02,Organic Search,Organic_Search_2023,8.82
+CUS00029,2024-06-14,Meta Ads,Meta_Ads_2024,40.37
+CUS00030,2023-11-12,Organic Search,Organic_Search_2023,7.75
+CUS00031,2025-07-21,Organic Search,Organic_Search_2025,8.77
+CUS00032,2024-06-18,Google Search,Google_Search_2024,28.94
+CUS00033,2025-07-02,Google Search,Google_Search_2025,36.48
+CUS00034,2023-12-12,Google Search,Google_Search_2023,40.72
+CUS00035,2025-08-02,Meta Ads,Meta_Ads_2025,32.64
+CUS00036,2023-10-01,Referral,Referral_2023,20.14
+CUS00037,2023-03-21,Direct,Direct_2023,3.53
+CUS00038,2023-10-25,Organic Search,Organic_Search_2023,6.55
+CUS00039,2023-11-02,Organic Search,Organic_Search_2023,10.13
+CUS00040,2024-02-15,Referral,Referral_2024,13.68
+CUS00041,2024-12-03,Meta Ads,Meta_Ads_2024,31.5
+CUS00042,2023-06-15,Organic Search,Organic_Search_2023,9.49
+CUS00043,2024-08-22,Organic Search,Organic_Search_2024,6.18
+CUS00044,2024-02-07,Google Search,Google_Search_2024,32.81
+CUS00045,2023-03-18,Meta Ads,Meta_Ads_2023,35.17
+CUS00046,2024-01-25,Google Search,Google_Search_2024,46.02
+CUS00047,2023-01-13,Organic Search,Organic_Search_2023,5.58
+CUS00048,2023-04-23,Meta Ads,Meta_Ads_2023,46.57
+CUS00049,2024-03-09,Meta Ads,Meta_Ads_2024,38.08
+CUS00050,2025-03-02,Google Search,Google_Search_2025,31.09
+CUS00051,2024-08-12,Meta Ads,Meta_Ads_2024,30.58
+CUS00052,2024-02-11,Google Search,Google_Search_2024,42.36
+CUS00053,2023-02-17,Google Search,Google_Search_2023,39.68
+CUS00054,2023-11-12,Google Search,Google_Search_2023,33.14
+CUS00055,2024-08-05,Email,Email_2024,15.78
+CUS00056,2024-12-13,Organic Search,Organic_Search_2024,7.87
+CUS00057,2023-10-07,Meta Ads,Meta_Ads_2023,41.05
+CUS00058,2024-09-19,Organic Search,Organic_Search_2024,9.33
+CUS00059,2023-06-05,Organic Search,Organic_Search_2023,10.21
+CUS00060,2023-05-04,Organic Search,Organic_Search_2023,9.35
+CUS00061,2023-01-13,Organic Search,Organic_Search_2023,9.67
+CUS00062,2023-06-22,Referral,Referral_2023,17.36
+CUS00063,2023-07-05,Organic Search,Organic_Search_2023,5.8
+CUS00064,2023-05-24,Google Search,Google_Search_2023,24.37
+CUS00065,2025-05-02,Direct,Direct_2025,5.15
+CUS00066,2024-12-24,Meta Ads,Meta_Ads_2024,35.59
+CUS00067,2023-04-06,Google Search,Google_Search_2023,41.89
+CUS00068,2023-12-14,Google Search,Google_Search_2023,27.07
+CUS00069,2025-05-23,Organic Search,Organic_Search_2025,8.67
+CUS00070,2024-11-01,Organic Search,Organic_Search_2024,7.14
+CUS00071,2024-08-05,Organic Search,Organic_Search_2024,9.23
+CUS00072,2023-03-01,Google Search,Google_Search_2023,25.21
+CUS00073,2024-08-24,Google Search,Google_Search_2024,35.96
+CUS00074,2025-03-10,Meta Ads,Meta_Ads_2025,52.36
+CUS00075,2025-05-10,Meta Ads,Meta_Ads_2025,44.89
+CUS00076,2023-07-13,Meta Ads,Meta_Ads_2023,32.82
+CUS00077,2023-05-13,Organic Search,Organic_Search_2023,8.31
+CUS00078,2025-05-01,Organic Search,Organic_Search_2025,7.95
+CUS00079,2024-10-19,Organic Search,Organic_Search_2024,8.33
+CUS00080,2023-01-21,Organic Search,Organic_Search_2023,7.12
+CUS00081,2024-02-10,Google Search,Google_Search_2024,27.03
+CUS00082,2024-10-16,Referral,Referral_2024,14.77
+CUS00083,2023-10-02,Google Search,Google_Search_2023,29.85
+CUS00084,2023-12-08,Organic Search,Organic_Search_2023,10.34
+CUS00085,2023-11-15,Meta Ads,Meta_Ads_2023,46.95
+CUS00086,2023-12-17,Meta Ads,Meta_Ads_2023,47.52
+CUS00087,2025-02-17,Organic Search,Organic_Search_2025,5.71
+CUS00088,2023-05-20,Organic Search,Organic_Search_2023,10.1
+CUS00089,2024-10-11,Google Search,Google_Search_2024,33.51
+CUS00090,2024-01-03,Direct,Direct_2024,5.16
+CUS00091,2023-05-10,Google Search,Google_Search_2023,30.02
+CUS00092,2023-01-08,Google Search,Google_Search_2023,34.57
+CUS00093,2023-12-23,Meta Ads,Meta_Ads_2023,38.88
+CUS00094,2023-02-21,Direct,Direct_2023,6.21
+CUS00095,2023-01-15,Organic Search,Organic_Search_2023,5.63
+CUS00096,2024-06-09,Meta Ads,Meta_Ads_2024,34.84
+CUS00097,2023-03-11,Organic Search,Organic_Search_2023,9.04
+CUS00098,2025-01-15,Organic Search,Organic_Search_2025,5.79
+CUS00099,2024-12-06,Organic Search,Organic_Search_2024,9.99
+CUS00100,2024-07-09,Organic Search,Organic_Search_2024,9.17
+CUS00101,2023-09-20,Direct,Direct_2023,6.51
+CUS00102,2024-02-17,Organic Search,Organic_Search_2024,6.95
+CUS00103,2024-03-11,Google Search,Google_Search_2024,39.12
+CUS00104,2024-08-17,Meta Ads,Meta_Ads_2024,54.6
+CUS00105,2025-01-18,Direct,Direct_2025,4.14
+CUS00106,2023-02-12,Google Search,Google_Search_2023,37.22
+CUS00107,2025-09-13,Meta Ads,Meta_Ads_2025,40.44
+CUS00108,2024-02-18,Organic Search,Organic_Search_2024,7.0
+CUS00109,2025-08-03,Organic Search,Organic_Search_2025,9.82
+CUS00110,2025-04-23,Google Search,Google_Search_2025,45.77
+CUS00111,2023-08-14,Organic Search,Organic_Search_2023,10.28
+CUS00112,2023-07-05,Organic Search,Organic_Search_2023,8.42
+CUS00113,2025-02-22,Google Search,Google_Search_2025,37.62
+CUS00114,2023-10-12,Meta Ads,Meta_Ads_2023,32.21
+CUS00115,2024-08-21,Organic Search,Organic_Search_2024,10.73
+CUS00116,2025-02-08,Referral,Referral_2025,15.71
+CUS00117,2025-07-17,Meta Ads,Meta_Ads_2025,27.67
+CUS00118,2023-03-24,Organic Search,Organic_Search_2023,8.51
+CUS00119,2024-03-06,Google Search,Google_Search_2024,32.71
+CUS00120,2025-04-01,Meta Ads,Meta_Ads_2025,49.9
+CUS00121,2023-02-12,Google Search,Google_Search_2023,46.64
+CUS00122,2024-02-01,Meta Ads,Meta_Ads_2024,39.74
+CUS00123,2023-09-07,Google Search,Google_Search_2023,28.21
+CUS00124,2024-07-10,Referral,Referral_2024,13.81
+CUS00125,2025-02-14,Organic Search,Organic_Search_2025,10.79
+CUS00126,2024-07-07,Direct,Direct_2024,4.03
+CUS00127,2024-10-24,Direct,Direct_2024,5.03
+CUS00128,2025-02-14,Email,Email_2025,15.97
+CUS00129,2025-01-17,Google Search,Google_Search_2025,24.36
+CUS00130,2024-05-10,Organic Search,Organic_Search_2024,8.7
+CUS00131,2023-10-12,Organic Search,Organic_Search_2023,9.72
+CUS00132,2023-08-04,Organic Search,Organic_Search_2023,6.37
+CUS00133,2025-01-03,Google Search,Google_Search_2025,31.4
+CUS00134,2023-06-14,Google Search,Google_Search_2023,46.97
+CUS00135,2025-09-18,Google Search,Google_Search_2025,48.58
+CUS00136,2024-05-21,Email,Email_2024,15.34
+CUS00137,2024-09-15,Meta Ads,Meta_Ads_2024,32.16
+CUS00138,2024-01-18,Meta Ads,Meta_Ads_2024,54.1
+CUS00139,2023-05-19,Google Search,Google_Search_2023,44.12
+CUS00140,2025-07-06,Referral,Referral_2025,20.93
+CUS00141,2024-11-25,Organic Search,Organic_Search_2024,9.76
+CUS00142,2024-08-09,Google Search,Google_Search_2024,33.72
+CUS00143,2023-11-16,Referral,Referral_2023,14.24
+CUS00144,2023-09-23,Google Search,Google_Search_2023,29.71
+CUS00145,2024-01-05,Organic Search,Organic_Search_2024,5.74
+CUS00146,2023-04-12,Direct,Direct_2023,3.48
+CUS00147,2023-12-16,Influencer,Influencer_2023,53.28
+CUS00148,2023-04-23,Meta Ads,Meta_Ads_2023,41.78
+CUS00149,2024-11-18,Direct,Direct_2024,5.31
+CUS00150,2024-04-20,Google Search,Google_Search_2024,27.04
+CUS00151,2024-06-21,Meta Ads,Meta_Ads_2024,41.7
+CUS00152,2023-09-07,Organic Search,Organic_Search_2023,6.23
+CUS00153,2024-10-01,Referral,Referral_2024,12.08
+CUS00154,2024-02-06,Influencer,Influencer_2024,45.09
+CUS00155,2023-06-09,Organic Search,Organic_Search_2023,6.42
+CUS00156,2025-09-17,Meta Ads,Meta_Ads_2025,31.09
+CUS00157,2024-05-10,Meta Ads,Meta_Ads_2024,45.31
+CUS00158,2023-02-21,Meta Ads,Meta_Ads_2023,27.91
+CUS00159,2024-06-12,Organic Search,Organic_Search_2024,10.07
+CUS00160,2024-11-06,Organic Search,Organic_Search_2024,9.56
+CUS00161,2024-10-04,Google Search,Google_Search_2024,35.82
+CUS00162,2025-04-03,Google Search,Google_Search_2025,43.01
+CUS00163,2024-07-11,Meta Ads,Meta_Ads_2024,37.97
+CUS00164,2025-08-10,Google Search,Google_Search_2025,40.21
+CUS00165,2023-09-17,Meta Ads,Meta_Ads_2023,46.54
+CUS00166,2024-03-13,Meta Ads,Meta_Ads_2024,34.52
+CUS00167,2024-06-25,Organic Search,Organic_Search_2024,7.49
+CUS00168,2024-11-11,Meta Ads,Meta_Ads_2024,40.52
+CUS00169,2024-10-19,Email,Email_2024,15.34
+CUS00170,2024-05-09,Organic Search,Organic_Search_2024,5.45
+CUS00171,2023-05-16,Direct,Direct_2023,5.15
+CUS00172,2023-02-14,Organic Search,Organic_Search_2023,10.43
+CUS00173,2024-11-10,Direct,Direct_2024,6.43
+CUS00174,2024-04-08,Direct,Direct_2024,4.24
+CUS00175,2023-06-18,Organic Search,Organic_Search_2023,6.9
+CUS00176,2024-05-09,Influencer,Influencer_2024,63.86
+CUS00177,2024-12-06,Direct,Direct_2024,4.68
+CUS00178,2023-10-16,Organic Search,Organic_Search_2023,6.81
+CUS00179,2024-10-24,Organic Search,Organic_Search_2024,7.79
+CUS00180,2024-06-25,Organic Search,Organic_Search_2024,10.17
+CUS00181,2023-11-05,Google Search,Google_Search_2023,26.98
+CUS00182,2024-01-22,Meta Ads,Meta_Ads_2024,51.28
+CUS00183,2024-04-02,Meta Ads,Meta_Ads_2024,34.38
+CUS00184,2023-02-19,Referral,Referral_2023,11.33
+CUS00185,2023-09-12,Direct,Direct_2023,5.51
+CUS00186,2023-11-19,Organic Search,Organic_Search_2023,6.41
+CUS00187,2023-07-13,Organic Search,Organic_Search_2023,8.65
+CUS00188,2023-12-06,Google Search,Google_Search_2023,24.72
+CUS00189,2025-05-25,Influencer,Influencer_2025,51.49
+CUS00190,2024-08-22,Meta Ads,Meta_Ads_2024,29.15
+CUS00191,2024-09-03,Organic Search,Organic_Search_2024,10.64
+CUS00192,2024-05-22,Organic Search,Organic_Search_2024,10.53
+CUS00193,2024-10-10,Google Search,Google_Search_2024,25.43
+CUS00194,2023-03-11,Direct,Direct_2023,5.37
+CUS00195,2025-09-10,Google Search,Google_Search_2025,47.09
+CUS00196,2024-09-18,Direct,Direct_2024,4.73
+CUS00197,2023-06-09,Organic Search,Organic_Search_2023,8.03
+CUS00198,2023-09-06,Direct,Direct_2023,6.58
+CUS00199,2023-04-20,Google Search,Google_Search_2023,27.11
+CUS00200,2023-04-01,Referral,Referral_2023,19.85
+CUS00201,2024-09-01,Meta Ads,Meta_Ads_2024,41.29
+CUS00202,2023-03-03,Email,Email_2023,14.66
+CUS00203,2023-07-16,Organic Search,Organic_Search_2023,8.33
+CUS00204,2023-01-04,Google Search,Google_Search_2023,40.61
+CUS00205,2025-08-17,Direct,Direct_2025,3.59
+CUS00206,2025-04-16,Email,Email_2025,15.12
+CUS00207,2023-07-20,Influencer,Influencer_2023,50.13
+CUS00208,2024-05-25,Influencer,Influencer_2024,57.81
+CUS00209,2024-01-17,Organic Search,Organic_Search_2024,6.22
+CUS00210,2025-05-05,Organic Search,Organic_Search_2025,8.01
+CUS00211,2023-02-02,Organic Search,Organic_Search_2023,7.63
+CUS00212,2024-06-06,Meta Ads,Meta_Ads_2024,52.84
+CUS00213,2024-06-22,Meta Ads,Meta_Ads_2024,40.03
+CUS00214,2023-08-01,Influencer,Influencer_2023,39.76
+CUS00215,2023-01-23,Google Search,Google_Search_2023,32.85
+CUS00216,2023-01-16,Google Search,Google_Search_2023,38.14
+CUS00217,2023-04-24,Meta Ads,Meta_Ads_2023,37.01
+CUS00218,2025-01-19,Google Search,Google_Search_2025,36.41
+CUS00219,2024-06-23,Organic Search,Organic_Search_2024,8.08
+CUS00220,2024-09-12,Meta Ads,Meta_Ads_2024,38.01
+CUS00221,2025-05-05,Referral,Referral_2025,13.47
+CUS00222,2023-02-17,Influencer,Influencer_2023,34.44
+CUS00223,2024-08-06,Google Search,Google_Search_2024,45.35
+CUS00224,2024-02-20,Meta Ads,Meta_Ads_2024,42.62
+CUS00225,2023-04-06,Google Search,Google_Search_2023,31.13
+CUS00226,2024-02-23,Organic Search,Organic_Search_2024,9.2
+CUS00227,2025-08-01,Email,Email_2025,8.24
+CUS00228,2024-07-07,Organic Search,Organic_Search_2024,5.39
+CUS00229,2023-05-20,Google Search,Google_Search_2023,48.56
+CUS00230,2025-07-09,Organic Search,Organic_Search_2025,6.7
+CUS00231,2023-11-07,Google Search,Google_Search_2023,35.82
+CUS00232,2024-07-08,Google Search,Google_Search_2024,27.18
+CUS00233,2023-02-06,Referral,Referral_2023,13.69
+CUS00234,2024-03-17,Google Search,Google_Search_2024,39.22
+CUS00235,2024-10-04,Organic Search,Organic_Search_2024,5.42
+CUS00236,2024-05-04,Referral,Referral_2024,13.15
+CUS00237,2024-09-16,Direct,Direct_2024,6.66
+CUS00238,2025-03-09,Google Search,Google_Search_2025,34.79
+CUS00239,2025-06-24,Organic Search,Organic_Search_2025,8.27
+CUS00240,2025-01-11,Google Search,Google_Search_2025,41.57
+CUS00241,2024-04-20,Direct,Direct_2024,4.97
+CUS00242,2023-02-24,Organic Search,Organic_Search_2023,10.48
+CUS00243,2024-03-17,Organic Search,Organic_Search_2024,9.8
+CUS00244,2023-05-18,Referral,Referral_2023,21.23
+CUS00245,2024-07-01,Meta Ads,Meta_Ads_2024,48.58
+CUS00246,2023-06-12,Organic Search,Organic_Search_2023,8.64
+CUS00247,2024-02-03,Influencer,Influencer_2024,34.99
+CUS00248,2024-05-02,Google Search,Google_Search_2024,24.31
+CUS00249,2024-04-21,Google Search,Google_Search_2024,46.69
+CUS00250,2023-06-21,Meta Ads,Meta_Ads_2023,52.87
+CUS00251,2023-03-17,Referral,Referral_2023,13.82
+CUS00252,2023-02-20,Organic Search,Organic_Search_2023,6.47
+CUS00253,2023-03-11,Google Search,Google_Search_2023,44.74
+CUS00254,2024-05-23,Organic Search,Organic_Search_2024,8.93
+CUS00255,2023-11-01,Google Search,Google_Search_2023,42.08
+CUS00256,2024-09-06,Organic Search,Organic_Search_2024,9.15
+CUS00257,2023-02-04,Meta Ads,Meta_Ads_2023,40.45
+CUS00258,2025-04-11,Organic Search,Organic_Search_2025,8.73
+CUS00259,2023-11-24,Meta Ads,Meta_Ads_2023,50.45
+CUS00260,2024-10-10,Email,Email_2024,14.43
+CUS00261,2024-11-08,Meta Ads,Meta_Ads_2024,43.45
+CUS00262,2023-02-22,Organic Search,Organic_Search_2023,6.99
+CUS00263,2024-02-16,Email,Email_2024,14.12
+CUS00264,2023-06-14,Email,Email_2023,14.81
+CUS00265,2024-12-18,Organic Search,Organic_Search_2024,9.67
+CUS00266,2024-11-23,Organic Search,Organic_Search_2024,7.59
+CUS00267,2024-09-12,Google Search,Google_Search_2024,28.92
+CUS00268,2024-08-10,Google Search,Google_Search_2024,37.46
+CUS00269,2025-03-06,Organic Search,Organic_Search_2025,8.79
+CUS00270,2024-09-19,Meta Ads,Meta_Ads_2024,51.24
+CUS00271,2024-08-07,Organic Search,Organic_Search_2024,10.45
+CUS00272,2024-05-14,Organic Search,Organic_Search_2024,10.16
+CUS00273,2024-04-06,Organic Search,Organic_Search_2024,10.36
+CUS00274,2023-05-16,Meta Ads,Meta_Ads_2023,51.34
+CUS00275,2024-11-17,Google Search,Google_Search_2024,47.8
+CUS00276,2023-03-24,Organic Search,Organic_Search_2023,6.44
+CUS00277,2025-09-11,Direct,Direct_2025,5.75
+CUS00278,2023-10-11,Meta Ads,Meta_Ads_2023,39.67
+CUS00279,2024-12-19,Organic Search,Organic_Search_2024,8.43
+CUS00280,2024-12-14,Direct,Direct_2024,6.38
+CUS00281,2023-02-14,Organic Search,Organic_Search_2023,6.93
+CUS00282,2025-05-16,Organic Search,Organic_Search_2025,10.13
+CUS00283,2024-07-06,Organic Search,Organic_Search_2024,8.52
+CUS00284,2023-09-24,Meta Ads,Meta_Ads_2023,54.77
+CUS00285,2023-08-10,Google Search,Google_Search_2023,29.86
+CUS00286,2023-12-05,Email,Email_2023,12.43
+CUS00287,2023-07-11,Organic Search,Organic_Search_2023,10.09
+CUS00288,2025-05-03,Meta Ads,Meta_Ads_2025,47.09
+CUS00289,2023-05-18,Organic Search,Organic_Search_2023,6.77
+CUS00290,2024-08-15,Email,Email_2024,11.66
+CUS00291,2024-09-23,Direct,Direct_2024,4.44
+CUS00292,2023-11-14,Referral,Referral_2023,17.03
+CUS00293,2023-09-13,Email,Email_2023,14.58
+CUS00294,2025-06-22,Influencer,Influencer_2025,38.61
+CUS00295,2023-10-04,Google Search,Google_Search_2023,42.92
+CUS00296,2023-03-09,Google Search,Google_Search_2023,38.59
+CUS00297,2023-04-09,Email,Email_2023,12.69
+CUS00298,2024-12-15,Influencer,Influencer_2024,46.33
+CUS00299,2024-07-15,Google Search,Google_Search_2024,46.65
+CUS00300,2023-12-07,Organic Search,Organic_Search_2023,7.12
+CUS00301,2024-01-11,Meta Ads,Meta_Ads_2024,49.71
+CUS00302,2025-04-18,Meta Ads,Meta_Ads_2025,39.23
+CUS00303,2024-01-01,Google Search,Google_Search_2024,27.44
+CUS00304,2025-05-08,Organic Search,Organic_Search_2025,10.26
+CUS00305,2024-08-04,Email,Email_2024,8.57
+CUS00306,2024-04-20,Influencer,Influencer_2024,64.3
+CUS00307,2024-07-23,Referral,Referral_2024,12.0
+CUS00308,2024-05-24,Organic Search,Organic_Search_2024,10.33
+CUS00309,2024-08-03,Google Search,Google_Search_2024,28.86
+CUS00310,2024-11-24,Google Search,Google_Search_2024,39.0
+CUS00311,2023-04-23,Influencer,Influencer_2023,40.67
+CUS00312,2023-07-14,Meta Ads,Meta_Ads_2023,52.42
+CUS00313,2024-03-19,Google Search,Google_Search_2024,34.61
+CUS00314,2023-04-18,Direct,Direct_2023,4.41
+CUS00315,2023-07-21,Organic Search,Organic_Search_2023,7.05
+CUS00316,2024-04-25,Google Search,Google_Search_2024,30.31
+CUS00317,2023-10-17,Organic Search,Organic_Search_2023,7.12
+CUS00318,2024-05-20,Referral,Referral_2024,20.08
+CUS00319,2025-06-09,Google Search,Google_Search_2025,36.89
+CUS00320,2023-02-11,Influencer,Influencer_2023,69.23
+CUS00321,2025-08-14,Google Search,Google_Search_2025,27.91
+CUS00322,2023-12-14,Google Search,Google_Search_2023,23.88
+CUS00323,2023-05-15,Direct,Direct_2023,5.5
+CUS00324,2023-09-12,Organic Search,Organic_Search_2023,9.69
+CUS00325,2023-07-06,Organic Search,Organic_Search_2023,10.21
+CUS00326,2023-09-14,Google Search,Google_Search_2023,32.54
+CUS00327,2024-09-03,Google Search,Google_Search_2024,38.69
+CUS00328,2023-02-17,Email,Email_2023,13.5
+CUS00329,2023-01-05,Direct,Direct_2023,5.07
+CUS00330,2025-09-01,Organic Search,Organic_Search_2025,5.48
+CUS00331,2024-05-09,Google Search,Google_Search_2024,39.68
+CUS00332,2024-05-25,Meta Ads,Meta_Ads_2024,45.98
+CUS00333,2024-09-02,Influencer,Influencer_2024,49.49
+CUS00334,2024-11-18,Organic Search,Organic_Search_2024,6.45
+CUS00335,2023-09-18,Organic Search,Organic_Search_2023,6.07
+CUS00336,2024-09-12,Referral,Referral_2024,15.76
+CUS00337,2024-09-01,Organic Search,Organic_Search_2024,9.0
+CUS00338,2023-07-02,Organic Search,Organic_Search_2023,6.87
+CUS00339,2024-07-25,Organic Search,Organic_Search_2024,8.4
+CUS00340,2025-03-10,Meta Ads,Meta_Ads_2025,27.42
+CUS00341,2024-02-03,Meta Ads,Meta_Ads_2024,40.53
+CUS00342,2025-08-19,Organic Search,Organic_Search_2025,7.68
+CUS00343,2024-01-08,Organic Search,Organic_Search_2024,6.03
+CUS00344,2024-04-20,Google Search,Google_Search_2024,34.82
+CUS00345,2024-05-11,Meta Ads,Meta_Ads_2024,26.8
+CUS00346,2023-05-09,Organic Search,Organic_Search_2023,9.32
+CUS00347,2024-09-19,Organic Search,Organic_Search_2024,5.33
+CUS00348,2023-12-03,Referral,Referral_2023,21.33
+CUS00349,2025-01-19,Referral,Referral_2025,20.85
+CUS00350,2024-03-08,Email,Email_2024,13.55
+CUS00351,2023-11-18,Direct,Direct_2023,6.59
+CUS00352,2024-12-06,Google Search,Google_Search_2024,34.66
+CUS00353,2023-08-24,Direct,Direct_2023,4.81
+CUS00354,2023-05-01,Google Search,Google_Search_2023,31.23
+CUS00355,2023-12-18,Direct,Direct_2023,5.08
+CUS00356,2024-03-10,Meta Ads,Meta_Ads_2024,29.4
+CUS00357,2024-04-05,Meta Ads,Meta_Ads_2024,28.56
+CUS00358,2024-04-01,Google Search,Google_Search_2024,40.87
+CUS00359,2025-06-24,Google Search,Google_Search_2025,43.04
+CUS00360,2024-08-20,Meta Ads,Meta_Ads_2024,36.3
+CUS00361,2024-01-07,Organic Search,Organic_Search_2024,6.58
+CUS00362,2025-09-15,Direct,Direct_2025,5.95
+CUS00363,2023-10-12,Meta Ads,Meta_Ads_2023,54.39
+CUS00364,2024-09-06,Direct,Direct_2024,5.29
+CUS00365,2023-05-15,Meta Ads,Meta_Ads_2023,32.22
+CUS00366,2024-10-07,Direct,Direct_2024,5.94
+CUS00367,2023-05-25,Google Search,Google_Search_2023,31.4
+CUS00368,2024-09-06,Organic Search,Organic_Search_2024,9.92
+CUS00369,2025-02-19,Organic Search,Organic_Search_2025,7.65
+CUS00370,2023-07-14,Google Search,Google_Search_2023,32.28
+CUS00371,2025-02-06,Direct,Direct_2025,5.37
+CUS00372,2025-08-06,Referral,Referral_2025,21.29
+CUS00373,2024-07-24,Google Search,Google_Search_2024,37.16
+CUS00374,2024-02-06,Google Search,Google_Search_2024,35.13
+CUS00375,2023-01-12,Direct,Direct_2023,5.4
+CUS00376,2023-05-21,Organic Search,Organic_Search_2023,8.85
+CUS00377,2024-06-22,Direct,Direct_2024,3.79
+CUS00378,2024-10-05,Referral,Referral_2024,14.35
+CUS00379,2025-04-23,Google Search,Google_Search_2025,28.59
+CUS00380,2024-04-02,Meta Ads,Meta_Ads_2024,38.44
+CUS00381,2024-09-23,Referral,Referral_2024,19.41
+CUS00382,2023-02-20,Organic Search,Organic_Search_2023,6.28
+CUS00383,2024-10-06,Organic Search,Organic_Search_2024,9.45
+CUS00384,2023-01-17,Organic Search,Organic_Search_2023,8.36
+CUS00385,2025-05-16,Google Search,Google_Search_2025,43.84
+CUS00386,2023-07-13,Google Search,Google_Search_2023,41.86
+CUS00387,2024-01-04,Organic Search,Organic_Search_2024,10.05
+CUS00388,2023-03-23,Email,Email_2023,7.91
+CUS00389,2024-01-22,Meta Ads,Meta_Ads_2024,35.06
+CUS00390,2024-05-10,Google Search,Google_Search_2024,33.52
+CUS00391,2024-07-18,Organic Search,Organic_Search_2024,7.85
+CUS00392,2024-10-17,Google Search,Google_Search_2024,30.36
+CUS00393,2024-01-24,Google Search,Google_Search_2024,40.05
+CUS00394,2024-07-23,Google Search,Google_Search_2024,45.27
+CUS00395,2025-01-11,Email,Email_2025,9.02
+CUS00396,2023-10-05,Direct,Direct_2023,6.56
+CUS00397,2025-06-05,Meta Ads,Meta_Ads_2025,41.35
+CUS00398,2023-11-14,Organic Search,Organic_Search_2023,10.2
+CUS00399,2023-03-15,Referral,Referral_2023,12.02
+CUS00400,2025-08-22,Referral,Referral_2025,14.26
+CUS00401,2024-10-14,Meta Ads,Meta_Ads_2024,32.2
+CUS00402,2024-01-21,Organic Search,Organic_Search_2024,5.42
+CUS00403,2024-06-08,Referral,Referral_2024,11.06
+CUS00404,2024-11-01,Google Search,Google_Search_2024,25.47
+CUS00405,2024-04-10,Organic Search,Organic_Search_2024,5.38
+CUS00406,2025-09-05,Referral,Referral_2025,11.67
+CUS00407,2023-06-01,Organic Search,Organic_Search_2023,10.13
+CUS00408,2024-02-25,Organic Search,Organic_Search_2024,10.37
+CUS00409,2024-01-14,Meta Ads,Meta_Ads_2024,32.69
+CUS00410,2025-01-12,Google Search,Google_Search_2025,40.71
+CUS00411,2025-07-01,Email,Email_2025,10.52
+CUS00412,2023-06-16,Organic Search,Organic_Search_2023,8.64
+CUS00413,2024-11-16,Meta Ads,Meta_Ads_2024,38.96
+CUS00414,2024-03-25,Referral,Referral_2024,20.99
+CUS00415,2024-02-01,Google Search,Google_Search_2024,35.4
+CUS00416,2023-11-22,Google Search,Google_Search_2023,36.24
+CUS00417,2025-05-02,Google Search,Google_Search_2025,25.64
+CUS00418,2024-11-07,Influencer,Influencer_2024,35.6
+CUS00419,2023-09-08,Meta Ads,Meta_Ads_2023,54.23
+CUS00420,2024-10-12,Organic Search,Organic_Search_2024,8.75
+CUS00421,2024-07-14,Google Search,Google_Search_2024,29.2
+CUS00422,2024-04-02,Direct,Direct_2024,3.77
+CUS00423,2024-11-11,Google Search,Google_Search_2024,31.67
+CUS00424,2023-01-21,Email,Email_2023,10.84
+CUS00425,2023-08-23,Meta Ads,Meta_Ads_2023,29.54
+CUS00426,2023-09-22,Google Search,Google_Search_2023,31.38
+CUS00427,2023-07-07,Meta Ads,Meta_Ads_2023,52.28
+CUS00428,2024-12-17,Google Search,Google_Search_2024,46.91
+CUS00429,2024-10-01,Google Search,Google_Search_2024,35.12
+CUS00430,2025-05-21,Meta Ads,Meta_Ads_2025,40.17
+CUS00431,2024-11-19,Organic Search,Organic_Search_2024,9.18
+CUS00432,2024-02-04,Email,Email_2024,10.54
+CUS00433,2023-10-15,Google Search,Google_Search_2023,27.34
+CUS00434,2023-09-06,Organic Search,Organic_Search_2023,10.53
+CUS00435,2023-12-23,Google Search,Google_Search_2023,45.81
+CUS00436,2025-07-08,Organic Search,Organic_Search_2025,9.82
+CUS00437,2023-07-08,Referral,Referral_2023,11.33
+CUS00438,2025-09-13,Google Search,Google_Search_2025,38.42
+CUS00439,2023-12-25,Organic Search,Organic_Search_2023,10.72
+CUS00440,2023-09-15,Referral,Referral_2023,22.67
+CUS00441,2023-09-14,Referral,Referral_2023,20.72
+CUS00442,2025-01-07,Direct,Direct_2025,5.21
+CUS00443,2024-12-04,Organic Search,Organic_Search_2024,7.08
+CUS00444,2025-05-13,Meta Ads,Meta_Ads_2025,48.26
+CUS00445,2023-11-14,Organic Search,Organic_Search_2023,8.84
+CUS00446,2024-03-25,Referral,Referral_2024,20.92
+CUS00447,2023-01-14,Direct,Direct_2023,3.85
+CUS00448,2023-11-17,Organic Search,Organic_Search_2023,10.62
+CUS00449,2023-09-14,Organic Search,Organic_Search_2023,8.4
+CUS00450,2025-01-07,Direct,Direct_2025,4.78
+CUS00451,2023-07-14,Organic Search,Organic_Search_2023,9.69
+CUS00452,2024-01-23,Email,Email_2024,8.66
+CUS00453,2024-11-24,Organic Search,Organic_Search_2024,5.85
+CUS00454,2024-01-04,Google Search,Google_Search_2024,25.7
+CUS00455,2024-05-18,Google Search,Google_Search_2024,46.99
+CUS00456,2025-09-19,Meta Ads,Meta_Ads_2025,37.2
+CUS00457,2024-08-08,Meta Ads,Meta_Ads_2024,32.84
+CUS00458,2024-04-22,Meta Ads,Meta_Ads_2024,28.84
+CUS00459,2023-08-22,Google Search,Google_Search_2023,36.27
+CUS00460,2025-07-22,Direct,Direct_2025,4.41
+CUS00461,2024-10-02,Organic Search,Organic_Search_2024,9.35
+CUS00462,2023-05-07,Email,Email_2023,11.06
+CUS00463,2024-09-14,Organic Search,Organic_Search_2024,6.82
+CUS00464,2025-05-13,Direct,Direct_2025,4.22
+CUS00465,2025-05-21,Email,Email_2025,12.93
+CUS00466,2024-08-05,Organic Search,Organic_Search_2024,10.54
+CUS00467,2024-01-20,Google Search,Google_Search_2024,33.5
+CUS00468,2025-01-12,Google Search,Google_Search_2025,46.43
+CUS00469,2023-09-22,Google Search,Google_Search_2023,45.28
+CUS00470,2024-03-21,Google Search,Google_Search_2024,26.53
+CUS00471,2023-11-13,Google Search,Google_Search_2023,43.38
+CUS00472,2024-05-05,Meta Ads,Meta_Ads_2024,35.84
+CUS00473,2024-04-24,Direct,Direct_2024,5.57
+CUS00474,2025-03-24,Direct,Direct_2025,5.64
+CUS00475,2023-11-20,Meta Ads,Meta_Ads_2023,38.68
+CUS00476,2023-07-23,Google Search,Google_Search_2023,37.12
+CUS00477,2023-08-19,Direct,Direct_2023,3.76
+CUS00478,2025-04-01,Organic Search,Organic_Search_2025,6.02
+CUS00479,2024-02-11,Direct,Direct_2024,3.82
+CUS00480,2024-10-20,Google Search,Google_Search_2024,26.22
+CUS00481,2025-04-17,Organic Search,Organic_Search_2025,10.31
+CUS00482,2024-09-22,Organic Search,Organic_Search_2024,9.46
+CUS00483,2024-02-06,Direct,Direct_2024,3.27
+CUS00484,2024-08-22,Influencer,Influencer_2024,44.3
+CUS00485,2023-01-24,Meta Ads,Meta_Ads_2023,50.44
+CUS00486,2024-09-07,Organic Search,Organic_Search_2024,7.9
+CUS00487,2023-02-18,Influencer,Influencer_2023,54.97
+CUS00488,2024-01-21,Google Search,Google_Search_2024,40.62
+CUS00489,2024-09-19,Email,Email_2024,9.86
+CUS00490,2023-03-09,Email,Email_2023,7.82
+CUS00491,2024-07-21,Meta Ads,Meta_Ads_2024,47.02
+CUS00492,2024-11-05,Google Search,Google_Search_2024,42.91
+CUS00493,2024-10-09,Referral,Referral_2024,17.67
+CUS00494,2023-02-10,Google Search,Google_Search_2023,28.45
+CUS00495,2025-08-18,Meta Ads,Meta_Ads_2025,36.05
+CUS00496,2024-12-17,Direct,Direct_2024,6.62
+CUS00497,2023-12-03,Google Search,Google_Search_2023,29.12
+CUS00498,2024-11-17,Direct,Direct_2024,6.67
+CUS00499,2023-01-08,Google Search,Google_Search_2023,41.45
+CUS00500,2024-01-16,Meta Ads,Meta_Ads_2024,49.49
+CUS00501,2024-08-02,Referral,Referral_2024,14.1
+CUS00502,2025-07-15,Google Search,Google_Search_2025,43.63
+CUS00503,2024-09-15,Meta Ads,Meta_Ads_2024,29.95
+CUS00504,2024-05-13,Meta Ads,Meta_Ads_2024,42.66
+CUS00505,2024-06-12,Referral,Referral_2024,20.08
+CUS00506,2023-02-17,Email,Email_2023,15.63
+CUS00507,2024-03-02,Meta Ads,Meta_Ads_2024,29.88
+CUS00508,2024-11-12,Google Search,Google_Search_2024,24.94
+CUS00509,2023-01-17,Organic Search,Organic_Search_2023,7.8
+CUS00510,2023-08-03,Organic Search,Organic_Search_2023,8.85
+CUS00511,2023-09-22,Organic Search,Organic_Search_2023,10.09
+CUS00512,2023-03-11,Organic Search,Organic_Search_2023,8.62
+CUS00513,2025-01-19,Influencer,Influencer_2025,34.66
+CUS00514,2025-04-24,Direct,Direct_2025,4.25
+CUS00515,2023-07-25,Google Search,Google_Search_2023,23.42
+CUS00516,2023-08-17,Organic Search,Organic_Search_2023,9.18
+CUS00517,2025-01-12,Direct,Direct_2025,3.34
+CUS00518,2025-09-05,Meta Ads,Meta_Ads_2025,27.2
+CUS00519,2023-08-10,Google Search,Google_Search_2023,46.74
+CUS00520,2024-01-16,Direct,Direct_2024,3.88
+CUS00521,2023-10-07,Organic Search,Organic_Search_2023,8.38
+CUS00522,2025-03-06,Organic Search,Organic_Search_2025,9.54
+CUS00523,2025-03-22,Organic Search,Organic_Search_2025,9.61
+CUS00524,2024-10-12,Google Search,Google_Search_2024,23.43
+CUS00525,2025-09-01,Meta Ads,Meta_Ads_2025,39.53
+CUS00526,2025-09-03,Referral,Referral_2025,16.66
+CUS00527,2023-02-05,Organic Search,Organic_Search_2023,9.76
+CUS00528,2023-09-08,Google Search,Google_Search_2023,38.37
+CUS00529,2025-07-12,Email,Email_2025,9.78
+CUS00530,2024-02-25,Meta Ads,Meta_Ads_2024,50.69
+CUS00531,2024-12-07,Influencer,Influencer_2024,54.08
+CUS00532,2024-10-07,Google Search,Google_Search_2024,45.99
+CUS00533,2024-11-16,Organic Search,Organic_Search_2024,8.96
+CUS00534,2023-04-20,Google Search,Google_Search_2023,48.07
+CUS00535,2023-12-05,Organic Search,Organic_Search_2023,6.46
+CUS00536,2024-02-10,Meta Ads,Meta_Ads_2024,34.06
+CUS00537,2025-05-21,Organic Search,Organic_Search_2025,6.94
+CUS00538,2025-03-17,Direct,Direct_2025,6.13
+CUS00539,2024-04-16,Meta Ads,Meta_Ads_2024,51.83
+CUS00540,2024-04-25,Direct,Direct_2024,6.41
+CUS00541,2024-07-05,Google Search,Google_Search_2024,26.46
+CUS00542,2023-06-18,Referral,Referral_2023,22.25
+CUS00543,2024-02-14,Meta Ads,Meta_Ads_2024,51.69
+CUS00544,2023-12-09,Google Search,Google_Search_2023,30.25
+CUS00545,2025-01-18,Referral,Referral_2025,15.22
+CUS00546,2025-02-02,Organic Search,Organic_Search_2025,9.94
+CUS00547,2023-04-21,Referral,Referral_2023,16.71
+CUS00548,2023-02-24,Meta Ads,Meta_Ads_2023,53.25
+CUS00549,2023-11-08,Google Search,Google_Search_2023,32.7
+CUS00550,2024-10-20,Organic Search,Organic_Search_2024,9.55
+CUS00551,2024-03-18,Organic Search,Organic_Search_2024,9.34
+CUS00552,2024-05-14,Email,Email_2024,12.06
+CUS00553,2024-12-04,Meta Ads,Meta_Ads_2024,49.94
+CUS00554,2023-10-11,Meta Ads,Meta_Ads_2023,50.37
+CUS00555,2023-11-01,Organic Search,Organic_Search_2023,9.33
+CUS00556,2024-01-23,Referral,Referral_2024,13.67
+CUS00557,2023-09-13,Organic Search,Organic_Search_2023,7.74
+CUS00558,2023-11-25,Direct,Direct_2023,5.82
+CUS00559,2024-02-09,Google Search,Google_Search_2024,43.21
+CUS00560,2023-03-02,Email,Email_2023,8.66
+CUS00561,2024-10-01,Organic Search,Organic_Search_2024,8.58
+CUS00562,2023-07-15,Google Search,Google_Search_2023,46.55
+CUS00563,2024-01-19,Google Search,Google_Search_2024,23.86
+CUS00564,2024-10-14,Google Search,Google_Search_2024,45.34
+CUS00565,2024-09-22,Direct,Direct_2024,4.9
+CUS00566,2023-01-12,Influencer,Influencer_2023,41.76
+CUS00567,2024-10-05,Organic Search,Organic_Search_2024,7.53
+CUS00568,2023-01-07,Google Search,Google_Search_2023,26.36
+CUS00569,2023-07-11,Organic Search,Organic_Search_2023,10.45
+CUS00570,2023-01-16,Referral,Referral_2023,12.59
+CUS00571,2023-08-24,Organic Search,Organic_Search_2023,7.46
+CUS00572,2024-11-18,Organic Search,Organic_Search_2024,9.7
+CUS00573,2023-05-07,Google Search,Google_Search_2023,43.41
+CUS00574,2023-06-19,Meta Ads,Meta_Ads_2023,45.1
+CUS00575,2023-12-22,Direct,Direct_2023,5.37
+CUS00576,2024-06-04,Direct,Direct_2024,4.25
+CUS00577,2023-09-09,Organic Search,Organic_Search_2023,6.47
+CUS00578,2024-01-12,Direct,Direct_2024,6.58
+CUS00579,2024-05-25,Organic Search,Organic_Search_2024,5.55
+CUS00580,2024-03-15,Google Search,Google_Search_2024,23.74
+CUS00581,2023-10-11,Referral,Referral_2023,11.73
+CUS00582,2023-08-01,Organic Search,Organic_Search_2023,5.39
+CUS00583,2025-09-24,Meta Ads,Meta_Ads_2025,37.05
+CUS00584,2024-10-19,Google Search,Google_Search_2024,31.87
+CUS00585,2025-04-04,Google Search,Google_Search_2025,25.42
+CUS00586,2023-09-05,Referral,Referral_2023,17.38
+CUS00587,2023-05-12,Direct,Direct_2023,5.98
+CUS00588,2025-07-10,Direct,Direct_2025,3.83
+CUS00589,2024-07-03,Meta Ads,Meta_Ads_2024,41.06
+CUS00590,2024-04-14,Meta Ads,Meta_Ads_2024,40.65
+CUS00591,2024-11-24,Meta Ads,Meta_Ads_2024,29.59
+CUS00592,2023-05-18,Meta Ads,Meta_Ads_2023,39.43
+CUS00593,2025-04-21,Referral,Referral_2025,18.31
+CUS00594,2023-08-07,Email,Email_2023,9.31
+CUS00595,2023-05-07,Google Search,Google_Search_2023,32.93
+CUS00596,2025-06-01,Meta Ads,Meta_Ads_2025,28.91
+CUS00597,2025-09-03,Meta Ads,Meta_Ads_2025,43.32
+CUS00598,2023-01-04,Google Search,Google_Search_2023,27.73
+CUS00599,2025-08-14,Email,Email_2025,12.29
+CUS00600,2024-04-25,Google Search,Google_Search_2024,40.19
+CUS00601,2024-06-19,Meta Ads,Meta_Ads_2024,47.3
+CUS00602,2024-09-11,Google Search,Google_Search_2024,37.1
+CUS00603,2025-09-08,Meta Ads,Meta_Ads_2025,46.47
+CUS00604,2024-02-15,Meta Ads,Meta_Ads_2024,41.17
+CUS00605,2025-01-12,Organic Search,Organic_Search_2025,5.38
+CUS00606,2025-03-20,Organic Search,Organic_Search_2025,6.2
+CUS00607,2024-07-25,Referral,Referral_2024,21.52
+CUS00608,2024-09-24,Direct,Direct_2024,5.64
+CUS00609,2024-12-23,Organic Search,Organic_Search_2024,9.44
+CUS00610,2025-09-15,Google Search,Google_Search_2025,44.49
+CUS00611,2023-06-19,Organic Search,Organic_Search_2023,5.86
+CUS00612,2025-06-21,Referral,Referral_2025,21.45
+CUS00613,2023-09-19,Meta Ads,Meta_Ads_2023,43.21
+CUS00614,2023-08-25,Direct,Direct_2023,4.56
+CUS00615,2024-09-08,Meta Ads,Meta_Ads_2024,52.24
+CUS00616,2023-08-09,Google Search,Google_Search_2023,33.03
+CUS00617,2024-12-08,Google Search,Google_Search_2024,44.77
+CUS00618,2024-01-11,Meta Ads,Meta_Ads_2024,45.98
+CUS00619,2023-11-07,Meta Ads,Meta_Ads_2023,38.58
+CUS00620,2023-01-21,Organic Search,Organic_Search_2023,8.27
+CUS00621,2024-09-16,Direct,Direct_2024,6.07
+CUS00622,2023-05-07,Influencer,Influencer_2023,66.97
+CUS00623,2023-02-24,Organic Search,Organic_Search_2023,5.45
+CUS00624,2024-10-12,Meta Ads,Meta_Ads_2024,37.21
+CUS00625,2024-03-12,Meta Ads,Meta_Ads_2024,44.63
+CUS00626,2024-05-07,Meta Ads,Meta_Ads_2024,42.81
+CUS00627,2024-01-07,Direct,Direct_2024,5.84
+CUS00628,2025-05-06,Direct,Direct_2025,3.54
+CUS00629,2024-01-08,Organic Search,Organic_Search_2024,9.29
+CUS00630,2025-04-13,Google Search,Google_Search_2025,32.8
+CUS00631,2024-06-17,Meta Ads,Meta_Ads_2024,45.94
+CUS00632,2023-03-22,Google Search,Google_Search_2023,37.06
+CUS00633,2023-08-23,Meta Ads,Meta_Ads_2023,54.97
+CUS00634,2023-03-02,Referral,Referral_2023,18.8
+CUS00635,2024-05-15,Organic Search,Organic_Search_2024,6.37
+CUS00636,2024-03-01,Google Search,Google_Search_2024,40.6
+CUS00637,2023-05-13,Meta Ads,Meta_Ads_2023,29.8
+CUS00638,2023-05-22,Email,Email_2023,15.55
+CUS00639,2025-03-19,Meta Ads,Meta_Ads_2025,32.62
+CUS00640,2023-10-10,Organic Search,Organic_Search_2023,8.53
+CUS00641,2023-11-08,Organic Search,Organic_Search_2023,7.69
+CUS00642,2023-05-15,Meta Ads,Meta_Ads_2023,36.0
+CUS00643,2024-02-05,Google Search,Google_Search_2024,37.45
+CUS00644,2023-11-18,Google Search,Google_Search_2023,41.57
+CUS00645,2024-12-08,Google Search,Google_Search_2024,25.32
+CUS00646,2023-08-16,Google Search,Google_Search_2023,46.07
+CUS00647,2024-01-04,Organic Search,Organic_Search_2024,5.29
+CUS00648,2025-01-22,Referral,Referral_2025,19.13
+CUS00649,2023-07-19,Organic Search,Organic_Search_2023,6.32
+CUS00650,2024-05-22,Direct,Direct_2024,6.43
+CUS00651,2024-01-10,Google Search,Google_Search_2024,44.56
+CUS00652,2025-02-19,Organic Search,Organic_Search_2025,8.5
+CUS00653,2024-01-16,Google Search,Google_Search_2024,43.07
+CUS00654,2024-08-05,Organic Search,Organic_Search_2024,8.95
+CUS00655,2023-01-16,Email,Email_2023,11.45
+CUS00656,2023-01-02,Organic Search,Organic_Search_2023,10.33
+CUS00657,2024-01-16,Organic Search,Organic_Search_2024,5.76
+CUS00658,2024-11-05,Meta Ads,Meta_Ads_2024,28.26
+CUS00659,2023-07-22,Organic Search,Organic_Search_2023,9.77
+CUS00660,2025-04-06,Organic Search,Organic_Search_2025,10.77
+CUS00661,2024-06-17,Organic Search,Organic_Search_2024,6.04
+CUS00662,2024-09-06,Meta Ads,Meta_Ads_2024,51.66
+CUS00663,2025-02-17,Google Search,Google_Search_2025,25.98
+CUS00664,2024-11-23,Referral,Referral_2024,18.83
+CUS00665,2024-12-15,Direct,Direct_2024,4.96
+CUS00666,2025-05-16,Google Search,Google_Search_2025,48.51
+CUS00667,2024-05-14,Direct,Direct_2024,6.68
+CUS00668,2023-04-15,Organic Search,Organic_Search_2023,10.4
+CUS00669,2024-12-06,Meta Ads,Meta_Ads_2024,39.16
+CUS00670,2024-04-19,Organic Search,Organic_Search_2024,9.94
+CUS00671,2023-02-14,Meta Ads,Meta_Ads_2023,32.41
+CUS00672,2023-11-09,Direct,Direct_2023,3.36
+CUS00673,2024-06-10,Google Search,Google_Search_2024,37.16
+CUS00674,2024-09-21,Google Search,Google_Search_2024,26.59
+CUS00675,2023-02-04,Organic Search,Organic_Search_2023,6.12
+CUS00676,2025-03-11,Meta Ads,Meta_Ads_2025,42.23
+CUS00677,2023-08-09,Influencer,Influencer_2023,36.66
+CUS00678,2023-12-03,Organic Search,Organic_Search_2023,7.08
+CUS00679,2025-02-13,Referral,Referral_2025,19.14
+CUS00680,2025-06-08,Meta Ads,Meta_Ads_2025,30.03
+CUS00681,2024-01-24,Meta Ads,Meta_Ads_2024,47.61
+CUS00682,2024-04-19,Organic Search,Organic_Search_2024,10.55
+CUS00683,2023-11-24,Referral,Referral_2023,13.5
+CUS00684,2024-12-22,Meta Ads,Meta_Ads_2024,44.98
+CUS00685,2024-03-07,Google Search,Google_Search_2024,42.85
+CUS00686,2025-04-02,Organic Search,Organic_Search_2025,9.03
+CUS00687,2024-12-04,Organic Search,Organic_Search_2024,8.67
+CUS00688,2023-01-18,Google Search,Google_Search_2023,29.48
+CUS00689,2023-05-02,Meta Ads,Meta_Ads_2023,46.81
+CUS00690,2023-05-18,Influencer,Influencer_2023,58.88
+CUS00691,2024-01-05,Referral,Referral_2024,22.09
+CUS00692,2023-07-23,Email,Email_2023,10.2
+CUS00693,2024-12-12,Meta Ads,Meta_Ads_2024,50.18
+CUS00694,2024-08-04,Organic Search,Organic_Search_2024,9.13
+CUS00695,2024-08-12,Google Search,Google_Search_2024,33.02
+CUS00696,2023-03-17,Organic Search,Organic_Search_2023,9.74
+CUS00697,2024-06-23,Meta Ads,Meta_Ads_2024,35.52
+CUS00698,2024-01-21,Organic Search,Organic_Search_2024,10.53
+CUS00699,2024-11-05,Organic Search,Organic_Search_2024,5.53
+CUS00700,2023-09-05,Direct,Direct_2023,5.07
+CUS00701,2024-04-12,Google Search,Google_Search_2024,47.37
+CUS00702,2024-07-02,Referral,Referral_2024,14.7
+CUS00703,2023-04-10,Google Search,Google_Search_2023,29.34
+CUS00704,2023-11-14,Google Search,Google_Search_2023,47.99
+CUS00705,2024-12-03,Organic Search,Organic_Search_2024,8.87
+CUS00706,2024-06-16,Organic Search,Organic_Search_2024,8.05
+CUS00707,2024-11-01,Direct,Direct_2024,5.27
+CUS00708,2023-12-03,Direct,Direct_2023,3.82
+CUS00709,2023-08-24,Organic Search,Organic_Search_2023,7.28
+CUS00710,2024-09-02,Google Search,Google_Search_2024,32.51
+CUS00711,2024-11-01,Organic Search,Organic_Search_2024,5.25
+CUS00712,2025-03-19,Referral,Referral_2025,15.12
+CUS00713,2023-09-21,Organic Search,Organic_Search_2023,6.5
+CUS00714,2025-09-19,Google Search,Google_Search_2025,37.58
+CUS00715,2024-11-09,Organic Search,Organic_Search_2024,8.81
+CUS00716,2023-07-05,Meta Ads,Meta_Ads_2023,34.54
+CUS00717,2024-09-16,Direct,Direct_2024,5.14
+CUS00718,2025-01-12,Direct,Direct_2025,5.93
+CUS00719,2024-04-11,Meta Ads,Meta_Ads_2024,28.69
+CUS00720,2023-09-20,Meta Ads,Meta_Ads_2023,55.13
+CUS00721,2025-04-22,Organic Search,Organic_Search_2025,6.28
+CUS00722,2024-07-03,Email,Email_2024,9.91
+CUS00723,2024-12-11,Organic Search,Organic_Search_2024,10.67
+CUS00724,2023-04-06,Organic Search,Organic_Search_2023,6.77
+CUS00725,2024-09-11,Email,Email_2024,12.41
+CUS00726,2023-08-25,Organic Search,Organic_Search_2023,7.43
+CUS00727,2025-07-22,Direct,Direct_2025,4.36
+CUS00728,2023-04-01,Influencer,Influencer_2023,38.73
+CUS00729,2023-06-06,Referral,Referral_2023,13.8
+CUS00730,2024-01-08,Google Search,Google_Search_2024,24.67
+CUS00731,2025-07-12,Influencer,Influencer_2025,59.58
+CUS00732,2024-04-04,Meta Ads,Meta_Ads_2024,51.06
+CUS00733,2024-02-21,Organic Search,Organic_Search_2024,6.43
+CUS00734,2023-11-16,Organic Search,Organic_Search_2023,6.51
+CUS00735,2024-09-24,Google Search,Google_Search_2024,33.19
+CUS00736,2023-05-13,Google Search,Google_Search_2023,47.69
+CUS00737,2024-01-11,Meta Ads,Meta_Ads_2024,45.3
+CUS00738,2023-11-24,Direct,Direct_2023,6.12
+CUS00739,2024-04-05,Google Search,Google_Search_2024,43.33
+CUS00740,2024-06-18,Organic Search,Organic_Search_2024,6.5
+CUS00741,2025-05-22,Organic Search,Organic_Search_2025,9.99
+CUS00742,2025-05-14,Referral,Referral_2025,15.66
+CUS00743,2023-11-13,Google Search,Google_Search_2023,48.59
+CUS00744,2023-12-04,Influencer,Influencer_2023,34.08
+CUS00745,2023-04-04,Meta Ads,Meta_Ads_2023,30.93
+CUS00746,2023-05-02,Referral,Referral_2023,13.63
+CUS00747,2025-07-17,Meta Ads,Meta_Ads_2025,55.11
+CUS00748,2023-09-19,Organic Search,Organic_Search_2023,6.77
+CUS00749,2023-03-24,Meta Ads,Meta_Ads_2023,35.92
+CUS00750,2024-03-17,Influencer,Influencer_2024,43.85
+CUS00751,2024-03-02,Google Search,Google_Search_2024,35.6
+CUS00752,2024-02-03,Organic Search,Organic_Search_2024,10.07
+CUS00753,2025-05-12,Google Search,Google_Search_2025,42.82
+CUS00754,2023-06-17,Referral,Referral_2023,15.68
+CUS00755,2023-12-14,Google Search,Google_Search_2023,36.56
+CUS00756,2023-02-04,Google Search,Google_Search_2023,47.39
+CUS00757,2024-12-04,Organic Search,Organic_Search_2024,8.17
+CUS00758,2024-07-16,Referral,Referral_2024,19.62
+CUS00759,2024-04-03,Email,Email_2024,7.87
+CUS00760,2023-07-07,Referral,Referral_2023,20.87
+CUS00761,2023-12-13,Meta Ads,Meta_Ads_2023,33.45
+CUS00762,2024-08-08,Direct,Direct_2024,3.52
+CUS00763,2024-09-23,Organic Search,Organic_Search_2024,9.54
+CUS00764,2024-10-04,Referral,Referral_2024,12.7
+CUS00765,2023-02-03,Referral,Referral_2023,18.07
+CUS00766,2024-12-21,Google Search,Google_Search_2024,35.57
+CUS00767,2023-05-10,Meta Ads,Meta_Ads_2023,40.67
+CUS00768,2024-07-14,Meta Ads,Meta_Ads_2024,49.07
+CUS00769,2024-04-25,Email,Email_2024,14.15
+CUS00770,2023-10-04,Organic Search,Organic_Search_2023,5.35
+CUS00771,2023-04-25,Direct,Direct_2023,6.28
+CUS00772,2024-05-17,Referral,Referral_2024,16.04
+CUS00773,2025-03-12,Direct,Direct_2025,5.71
+CUS00774,2024-06-10,Google Search,Google_Search_2024,33.68
+CUS00775,2025-04-10,Email,Email_2025,9.43
+CUS00776,2023-11-11,Meta Ads,Meta_Ads_2023,50.04
+CUS00777,2024-03-23,Meta Ads,Meta_Ads_2024,42.27
+CUS00778,2023-10-18,Direct,Direct_2023,6.21
+CUS00779,2023-04-06,Meta Ads,Meta_Ads_2023,33.87
+CUS00780,2024-07-04,Organic Search,Organic_Search_2024,7.16
+CUS00781,2024-02-23,Organic Search,Organic_Search_2024,7.99
+CUS00782,2023-07-14,Referral,Referral_2023,11.24
+CUS00783,2024-12-22,Organic Search,Organic_Search_2024,6.17
+CUS00784,2023-04-08,Meta Ads,Meta_Ads_2023,35.6
+CUS00785,2024-02-16,Google Search,Google_Search_2024,26.53
+CUS00786,2024-04-03,Email,Email_2024,14.43
+CUS00787,2023-01-13,Organic Search,Organic_Search_2023,6.33
+CUS00788,2024-12-22,Organic Search,Organic_Search_2024,9.12
+CUS00789,2025-04-15,Meta Ads,Meta_Ads_2025,44.64
+CUS00790,2024-08-19,Google Search,Google_Search_2024,23.89
+CUS00791,2024-08-17,Referral,Referral_2024,17.2
+CUS00792,2023-01-14,Email,Email_2023,7.96
+CUS00793,2025-01-18,Meta Ads,Meta_Ads_2025,52.99
+CUS00794,2024-04-08,Meta Ads,Meta_Ads_2024,47.21
+CUS00795,2025-04-25,Meta Ads,Meta_Ads_2025,35.68
+CUS00796,2025-03-10,Referral,Referral_2025,14.77
+CUS00797,2023-02-03,Google Search,Google_Search_2023,28.92
+CUS00798,2025-04-17,Organic Search,Organic_Search_2025,8.64
+CUS00799,2025-09-13,Meta Ads,Meta_Ads_2025,33.19
+CUS00800,2023-02-22,Google Search,Google_Search_2023,42.91
+CUS00801,2023-08-23,Meta Ads,Meta_Ads_2023,38.28
+CUS00802,2023-05-07,Meta Ads,Meta_Ads_2023,35.23
+CUS00803,2023-06-08,Referral,Referral_2023,13.12
+CUS00804,2024-02-17,Google Search,Google_Search_2024,33.08
+CUS00805,2024-11-14,Meta Ads,Meta_Ads_2024,39.79
+CUS00806,2023-04-02,Organic Search,Organic_Search_2023,8.34
+CUS00807,2024-05-16,Referral,Referral_2024,16.27
+CUS00808,2024-04-25,Influencer,Influencer_2024,65.88
+CUS00809,2025-01-19,Meta Ads,Meta_Ads_2025,42.0
+CUS00810,2023-12-15,Google Search,Google_Search_2023,48.57
+CUS00811,2025-05-19,Organic Search,Organic_Search_2025,10.52
+CUS00812,2023-11-22,Email,Email_2023,9.17
+CUS00813,2024-08-16,Google Search,Google_Search_2024,28.3
+CUS00814,2024-09-21,Influencer,Influencer_2024,54.45
+CUS00815,2024-05-04,Email,Email_2024,14.44
+CUS00816,2025-05-13,Google Search,Google_Search_2025,32.81
+CUS00817,2023-07-10,Meta Ads,Meta_Ads_2023,29.01
+CUS00818,2023-12-10,Meta Ads,Meta_Ads_2023,51.34
+CUS00819,2025-01-12,Organic Search,Organic_Search_2025,6.92
+CUS00820,2024-06-20,Google Search,Google_Search_2024,27.33
+CUS00821,2024-01-03,Organic Search,Organic_Search_2024,9.17
+CUS00822,2023-01-01,Organic Search,Organic_Search_2023,6.21
+CUS00823,2023-06-20,Direct,Direct_2023,3.95
+CUS00824,2024-03-07,Direct,Direct_2024,3.38
+CUS00825,2024-03-05,Meta Ads,Meta_Ads_2024,35.68
+CUS00826,2023-06-06,Direct,Direct_2023,5.04
+CUS00827,2024-04-07,Organic Search,Organic_Search_2024,7.22
+CUS00828,2023-10-10,Google Search,Google_Search_2023,34.31
+CUS00829,2025-01-13,Google Search,Google_Search_2025,29.92
+CUS00830,2023-11-15,Direct,Direct_2023,6.4
+CUS00831,2023-06-23,Direct,Direct_2023,6.51
+CUS00832,2024-04-24,Meta Ads,Meta_Ads_2024,36.28
+CUS00833,2025-07-04,Meta Ads,Meta_Ads_2025,53.57
+CUS00834,2024-01-10,Google Search,Google_Search_2024,40.43
+CUS00835,2024-04-14,Google Search,Google_Search_2024,26.46
+CUS00836,2024-09-08,Organic Search,Organic_Search_2024,7.26
+CUS00837,2025-04-16,Meta Ads,Meta_Ads_2025,40.58
+CUS00838,2023-02-04,Google Search,Google_Search_2023,42.42
+CUS00839,2023-07-11,Referral,Referral_2023,21.45
+CUS00840,2024-06-18,Organic Search,Organic_Search_2024,7.09
+CUS00841,2023-11-11,Google Search,Google_Search_2023,24.8
+CUS00842,2025-05-12,Google Search,Google_Search_2025,42.32
+CUS00843,2024-11-04,Organic Search,Organic_Search_2024,9.95
+CUS00844,2023-04-16,Meta Ads,Meta_Ads_2023,40.31
+CUS00845,2024-01-09,Organic Search,Organic_Search_2024,7.56
+CUS00846,2023-07-03,Meta Ads,Meta_Ads_2023,34.22
+CUS00847,2024-11-13,Google Search,Google_Search_2024,30.46
+CUS00848,2025-05-14,Google Search,Google_Search_2025,29.49
+CUS00849,2023-05-03,Meta Ads,Meta_Ads_2023,35.66
+CUS00850,2024-10-20,Meta Ads,Meta_Ads_2024,39.85
+CUS00851,2024-02-19,Referral,Referral_2024,16.97
+CUS00852,2024-05-22,Organic Search,Organic_Search_2024,8.07
+CUS00853,2024-06-21,Meta Ads,Meta_Ads_2024,41.63
+CUS00854,2024-05-20,Google Search,Google_Search_2024,42.74
+CUS00855,2025-06-22,Google Search,Google_Search_2025,29.96
+CUS00856,2025-06-17,Direct,Direct_2025,5.37
+CUS00857,2024-07-11,Meta Ads,Meta_Ads_2024,37.14
+CUS00858,2025-04-15,Google Search,Google_Search_2025,36.7
+CUS00859,2024-09-13,Email,Email_2024,11.26
+CUS00860,2024-11-17,Email,Email_2024,8.27
+CUS00861,2024-03-17,Organic Search,Organic_Search_2024,9.51
+CUS00862,2024-11-24,Organic Search,Organic_Search_2024,5.59
+CUS00863,2023-04-13,Organic Search,Organic_Search_2023,5.32
+CUS00864,2023-04-23,Google Search,Google_Search_2023,30.13
+CUS00865,2023-06-14,Organic Search,Organic_Search_2023,7.37
+CUS00866,2023-06-23,Google Search,Google_Search_2023,30.09
+CUS00867,2025-01-19,Meta Ads,Meta_Ads_2025,38.46
+CUS00868,2024-07-12,Referral,Referral_2024,21.64
+CUS00869,2024-01-02,Organic Search,Organic_Search_2024,6.98
+CUS00870,2025-02-13,Meta Ads,Meta_Ads_2025,30.58
+CUS00871,2025-09-04,Meta Ads,Meta_Ads_2025,54.52
+CUS00872,2023-10-03,Organic Search,Organic_Search_2023,10.14
+CUS00873,2025-08-18,Organic Search,Organic_Search_2025,9.17
+CUS00874,2025-03-11,Google Search,Google_Search_2025,28.42
+CUS00875,2023-02-11,Direct,Direct_2023,4.87
+CUS00876,2024-03-02,Meta Ads,Meta_Ads_2024,37.71
+CUS00877,2025-08-09,Google Search,Google_Search_2025,27.38
+CUS00878,2024-07-13,Meta Ads,Meta_Ads_2024,29.35
+CUS00879,2024-03-08,Direct,Direct_2024,3.85
+CUS00880,2023-05-20,Organic Search,Organic_Search_2023,6.98
+CUS00881,2023-09-20,Meta Ads,Meta_Ads_2023,40.5
+CUS00882,2024-09-12,Influencer,Influencer_2024,62.52
+CUS00883,2023-07-06,Google Search,Google_Search_2023,26.87
+CUS00884,2025-03-25,Organic Search,Organic_Search_2025,8.74
+CUS00885,2024-12-01,Organic Search,Organic_Search_2024,6.68
+CUS00886,2024-05-01,Google Search,Google_Search_2024,25.66
+CUS00887,2023-03-17,Direct,Direct_2023,3.56
+CUS00888,2024-12-03,Google Search,Google_Search_2024,47.4
+CUS00889,2024-11-25,Email,Email_2024,10.59
+CUS00890,2024-12-21,Meta Ads,Meta_Ads_2024,40.39
+CUS00891,2024-10-11,Referral,Referral_2024,19.88
+CUS00892,2025-01-02,Google Search,Google_Search_2025,30.29
+CUS00893,2024-05-20,Meta Ads,Meta_Ads_2024,35.3
+CUS00894,2025-09-04,Organic Search,Organic_Search_2025,6.36
+CUS00895,2025-02-02,Referral,Referral_2025,19.58
+CUS00896,2025-08-09,Meta Ads,Meta_Ads_2025,44.18
+CUS00897,2023-12-09,Google Search,Google_Search_2023,43.86
+CUS00898,2023-05-24,Google Search,Google_Search_2023,40.9
+CUS00899,2025-05-17,Direct,Direct_2025,4.11
+CUS00900,2023-11-22,Google Search,Google_Search_2023,47.68
+CUS00901,2023-01-01,Referral,Referral_2023,16.02
+CUS00902,2023-08-04,Direct,Direct_2023,5.49
+CUS00903,2024-02-14,Meta Ads,Meta_Ads_2024,38.4
+CUS00904,2023-08-04,Meta Ads,Meta_Ads_2023,38.34
+CUS00905,2023-01-13,Organic Search,Organic_Search_2023,5.38
+CUS00906,2023-01-09,Direct,Direct_2023,3.38
+CUS00907,2023-04-11,Referral,Referral_2023,20.19
+CUS00908,2025-09-20,Organic Search,Organic_Search_2025,6.69
+CUS00909,2023-10-21,Meta Ads,Meta_Ads_2023,30.86
+CUS00910,2024-09-08,Meta Ads,Meta_Ads_2024,35.38
+CUS00911,2025-05-23,Google Search,Google_Search_2025,47.64
+CUS00912,2025-04-14,Google Search,Google_Search_2025,47.1
+CUS00913,2024-02-14,Google Search,Google_Search_2024,33.18
+CUS00914,2023-11-18,Meta Ads,Meta_Ads_2023,41.61
+CUS00915,2025-04-04,Meta Ads,Meta_Ads_2025,50.29
+CUS00916,2024-02-16,Organic Search,Organic_Search_2024,7.84
+CUS00917,2025-03-01,Organic Search,Organic_Search_2025,8.66
+CUS00918,2023-10-04,Direct,Direct_2023,4.62
+CUS00919,2025-03-13,Meta Ads,Meta_Ads_2025,52.59
+CUS00920,2024-11-05,Google Search,Google_Search_2024,43.5
+CUS00921,2024-02-12,Meta Ads,Meta_Ads_2024,38.33
+CUS00922,2024-05-10,Referral,Referral_2024,21.11
+CUS00923,2025-08-09,Meta Ads,Meta_Ads_2025,40.58
+CUS00924,2024-10-23,Direct,Direct_2024,3.68
+CUS00925,2024-10-03,Meta Ads,Meta_Ads_2024,49.07
+CUS00926,2024-03-17,Organic Search,Organic_Search_2024,7.22
+CUS00927,2025-06-06,Google Search,Google_Search_2025,39.74
+CUS00928,2025-04-17,Google Search,Google_Search_2025,42.03
+CUS00929,2025-05-18,Google Search,Google_Search_2025,44.12
+CUS00930,2024-01-03,Organic Search,Organic_Search_2024,10.15
+CUS00931,2024-07-14,Referral,Referral_2024,12.31
+CUS00932,2024-12-24,Influencer,Influencer_2024,38.17
+CUS00933,2023-01-14,Organic Search,Organic_Search_2023,6.29
+CUS00934,2024-04-16,Organic Search,Organic_Search_2024,9.64
+CUS00935,2023-07-10,Organic Search,Organic_Search_2023,8.04
+CUS00936,2023-01-12,Referral,Referral_2023,14.01
+CUS00937,2024-01-02,Meta Ads,Meta_Ads_2024,49.94
+CUS00938,2023-03-12,Google Search,Google_Search_2023,23.58
+CUS00939,2025-04-20,Meta Ads,Meta_Ads_2025,50.73
+CUS00940,2024-11-24,Influencer,Influencer_2024,47.13
+CUS00941,2024-04-05,Email,Email_2024,9.61
+CUS00942,2023-10-09,Organic Search,Organic_Search_2023,8.73
+CUS00943,2024-03-10,Direct,Direct_2024,5.35
+CUS00944,2023-03-13,Organic Search,Organic_Search_2023,5.73
+CUS00945,2025-02-02,Organic Search,Organic_Search_2025,8.5
+CUS00946,2024-11-22,Google Search,Google_Search_2024,39.11
+CUS00947,2024-03-10,Organic Search,Organic_Search_2024,9.44
+CUS00948,2024-09-11,Meta Ads,Meta_Ads_2024,40.58
+CUS00949,2023-10-21,Google Search,Google_Search_2023,26.01
+CUS00950,2024-10-07,Referral,Referral_2024,11.53
+CUS00951,2025-01-07,Organic Search,Organic_Search_2025,10.55
+CUS00952,2023-06-12,Organic Search,Organic_Search_2023,9.09
+CUS00953,2023-05-05,Direct,Direct_2023,5.94
+CUS00954,2024-03-02,Google Search,Google_Search_2024,24.93
+CUS00955,2024-09-22,Google Search,Google_Search_2024,30.25
+CUS00956,2023-03-24,Meta Ads,Meta_Ads_2023,41.49
+CUS00957,2024-12-21,Organic Search,Organic_Search_2024,9.73
+CUS00958,2024-06-21,Influencer,Influencer_2024,60.82
+CUS00959,2025-05-04,Organic Search,Organic_Search_2025,9.93
+CUS00960,2025-07-13,Meta Ads,Meta_Ads_2025,37.94
+CUS00961,2024-03-18,Direct,Direct_2024,5.46
+CUS00962,2024-12-09,Meta Ads,Meta_Ads_2024,51.3
+CUS00963,2024-04-21,Influencer,Influencer_2024,56.39
+CUS00964,2024-11-23,Google Search,Google_Search_2024,29.07
+CUS00965,2025-06-04,Google Search,Google_Search_2025,46.04
+CUS00966,2025-03-02,Meta Ads,Meta_Ads_2025,34.56
+CUS00967,2024-01-24,Direct,Direct_2024,5.59
+CUS00968,2024-06-07,Email,Email_2024,11.76
+CUS00969,2023-12-16,Organic Search,Organic_Search_2023,10.68
+CUS00970,2024-04-19,Google Search,Google_Search_2024,46.74
+CUS00971,2024-05-13,Google Search,Google_Search_2024,36.48
+CUS00972,2023-07-03,Referral,Referral_2023,20.94
+CUS00973,2024-09-03,Organic Search,Organic_Search_2024,6.24
+CUS00974,2024-01-06,Meta Ads,Meta_Ads_2024,38.52
+CUS00975,2024-07-05,Email,Email_2024,11.48
+CUS00976,2024-11-04,Meta Ads,Meta_Ads_2024,42.62
+CUS00977,2025-05-14,Direct,Direct_2025,3.5
+CUS00978,2023-07-16,Referral,Referral_2023,19.7
+CUS00979,2023-05-23,Referral,Referral_2023,14.72
+CUS00980,2023-04-10,Direct,Direct_2023,4.91
+CUS00981,2023-04-11,Organic Search,Organic_Search_2023,7.01
+CUS00982,2025-03-19,Email,Email_2025,8.09
+CUS00983,2023-08-21,Organic Search,Organic_Search_2023,5.67
+CUS00984,2023-03-02,Organic Search,Organic_Search_2023,10.5
+CUS00985,2025-02-10,Organic Search,Organic_Search_2025,7.74
+CUS00986,2023-05-02,Influencer,Influencer_2023,48.37
+CUS00987,2024-05-10,Meta Ads,Meta_Ads_2024,52.98
+CUS00988,2023-07-01,Meta Ads,Meta_Ads_2023,39.29
+CUS00989,2025-04-25,Direct,Direct_2025,6.13
+CUS00990,2024-08-08,Google Search,Google_Search_2024,25.74
+CUS00991,2024-04-08,Meta Ads,Meta_Ads_2024,42.7
+CUS00992,2024-10-06,Google Search,Google_Search_2024,36.04
+CUS00993,2024-11-21,Organic Search,Organic_Search_2024,5.51
+CUS00994,2023-01-23,Organic Search,Organic_Search_2023,9.79
+CUS00995,2023-12-16,Google Search,Google_Search_2023,36.51
+CUS00996,2024-10-23,Meta Ads,Meta_Ads_2024,45.6
+CUS00997,2023-04-16,Google Search,Google_Search_2023,25.17
+CUS00998,2023-07-21,Google Search,Google_Search_2023,33.38
+CUS00999,2024-03-12,Direct,Direct_2024,4.91
+CUS01000,2023-02-08,Meta Ads,Meta_Ads_2023,41.21
+CUS01001,2024-10-22,Direct,Direct_2024,6.59
+CUS01002,2023-10-07,Email,Email_2023,10.68
+CUS01003,2023-06-17,Google Search,Google_Search_2023,30.57
+CUS01004,2023-08-03,Direct,Direct_2023,6.21
+CUS01005,2024-07-02,Meta Ads,Meta_Ads_2024,50.28
+CUS01006,2025-06-20,Meta Ads,Meta_Ads_2025,51.95
+CUS01007,2023-04-05,Email,Email_2023,11.58
+CUS01008,2023-08-07,Referral,Referral_2023,20.32
+CUS01009,2025-07-06,Organic Search,Organic_Search_2025,9.52
+CUS01010,2024-11-08,Meta Ads,Meta_Ads_2024,51.22
+CUS01011,2024-01-19,Organic Search,Organic_Search_2024,5.29
+CUS01012,2023-11-14,Google Search,Google_Search_2023,31.93
+CUS01013,2023-03-14,Meta Ads,Meta_Ads_2023,29.95
+CUS01014,2025-08-24,Meta Ads,Meta_Ads_2025,28.42
+CUS01015,2024-06-16,Direct,Direct_2024,4.36
+CUS01016,2025-05-14,Organic Search,Organic_Search_2025,9.94
+CUS01017,2023-06-25,Google Search,Google_Search_2023,45.54
+CUS01018,2023-11-10,Organic Search,Organic_Search_2023,8.67
+CUS01019,2024-07-05,Google Search,Google_Search_2024,39.18
+CUS01020,2025-02-15,Organic Search,Organic_Search_2025,10.5
+CUS01021,2024-02-11,Google Search,Google_Search_2024,26.33
+CUS01022,2023-07-16,Organic Search,Organic_Search_2023,9.73
+CUS01023,2024-05-14,Referral,Referral_2024,18.6
+CUS01024,2024-09-09,Referral,Referral_2024,19.34
+CUS01025,2024-11-07,Direct,Direct_2024,6.15
+CUS01026,2023-03-16,Meta Ads,Meta_Ads_2023,44.53
+CUS01027,2025-07-01,Meta Ads,Meta_Ads_2025,54.36
+CUS01028,2023-09-19,Organic Search,Organic_Search_2023,10.2
+CUS01029,2025-04-06,Meta Ads,Meta_Ads_2025,31.16
+CUS01030,2024-05-15,Google Search,Google_Search_2024,29.94
+CUS01031,2024-05-04,Google Search,Google_Search_2024,29.06
+CUS01032,2023-11-24,Organic Search,Organic_Search_2023,7.22
+CUS01033,2024-05-12,Influencer,Influencer_2024,66.13
+CUS01034,2025-01-11,Email,Email_2025,10.68
+CUS01035,2023-04-11,Organic Search,Organic_Search_2023,5.57
+CUS01036,2024-01-20,Email,Email_2024,15.84
+CUS01037,2024-03-24,Organic Search,Organic_Search_2024,6.49
+CUS01038,2024-03-16,Email,Email_2024,14.07
+CUS01039,2024-12-12,Meta Ads,Meta_Ads_2024,51.25
+CUS01040,2023-02-06,Organic Search,Organic_Search_2023,5.81
+CUS01041,2024-03-14,Google Search,Google_Search_2024,43.13
+CUS01042,2024-03-21,Direct,Direct_2024,6.02
+CUS01043,2023-03-18,Organic Search,Organic_Search_2023,6.04
+CUS01044,2023-03-06,Google Search,Google_Search_2023,44.24
+CUS01045,2024-03-05,Referral,Referral_2024,19.3
+CUS01046,2024-04-21,Direct,Direct_2024,6.26
+CUS01047,2024-12-17,Organic Search,Organic_Search_2024,10.42
+CUS01048,2025-06-20,Organic Search,Organic_Search_2025,8.36
+CUS01049,2023-06-24,Direct,Direct_2023,3.75
+CUS01050,2024-01-23,Organic Search,Organic_Search_2024,8.15
+CUS01051,2024-07-19,Meta Ads,Meta_Ads_2024,29.58
+CUS01052,2024-08-05,Organic Search,Organic_Search_2024,9.49
+CUS01053,2025-05-08,Google Search,Google_Search_2025,42.23
+CUS01054,2025-06-09,Organic Search,Organic_Search_2025,8.44
+CUS01055,2024-04-02,Direct,Direct_2024,4.39
+CUS01056,2025-07-15,Email,Email_2025,10.96
+CUS01057,2023-10-08,Meta Ads,Meta_Ads_2023,36.56
+CUS01058,2025-03-20,Google Search,Google_Search_2025,29.81
+CUS01059,2023-07-04,Influencer,Influencer_2023,37.64
+CUS01060,2023-02-08,Meta Ads,Meta_Ads_2023,46.37
+CUS01061,2024-04-06,Meta Ads,Meta_Ads_2024,48.73
+CUS01062,2023-08-09,Email,Email_2023,8.89
+CUS01063,2025-01-03,Direct,Direct_2025,5.15
+CUS01064,2024-06-08,Meta Ads,Meta_Ads_2024,51.27
+CUS01065,2025-08-17,Organic Search,Organic_Search_2025,10.14
+CUS01066,2023-05-15,Organic Search,Organic_Search_2023,6.21
+CUS01067,2023-01-09,Google Search,Google_Search_2023,28.81
+CUS01068,2023-01-20,Direct,Direct_2023,6.05
+CUS01069,2024-11-04,Meta Ads,Meta_Ads_2024,44.03
+CUS01070,2023-07-09,Organic Search,Organic_Search_2023,5.27
+CUS01071,2024-04-01,Referral,Referral_2024,14.44
+CUS01072,2025-07-23,Direct,Direct_2025,4.65
+CUS01073,2024-07-21,Email,Email_2024,12.59
+CUS01074,2023-03-01,Meta Ads,Meta_Ads_2023,40.93
+CUS01075,2023-03-05,Organic Search,Organic_Search_2023,6.85
+CUS01076,2025-06-03,Organic Search,Organic_Search_2025,10.51
+CUS01077,2024-01-05,Meta Ads,Meta_Ads_2024,32.08
+CUS01078,2023-03-13,Google Search,Google_Search_2023,29.75
+CUS01079,2025-06-24,Direct,Direct_2025,6.45
+CUS01080,2023-10-19,Organic Search,Organic_Search_2023,7.06
+CUS01081,2023-09-05,Direct,Direct_2023,5.18
+CUS01082,2024-03-24,Google Search,Google_Search_2024,46.53
+CUS01083,2025-03-03,Meta Ads,Meta_Ads_2025,28.78
+CUS01084,2023-06-21,Meta Ads,Meta_Ads_2023,43.93
+CUS01085,2024-04-18,Referral,Referral_2024,19.76
+CUS01086,2025-04-11,Organic Search,Organic_Search_2025,6.4
+CUS01087,2023-09-05,Referral,Referral_2023,22.7
+CUS01088,2024-12-17,Meta Ads,Meta_Ads_2024,45.67
+CUS01089,2025-09-12,Email,Email_2025,9.93
+CUS01090,2025-05-04,Organic Search,Organic_Search_2025,10.03
+CUS01091,2025-06-21,Organic Search,Organic_Search_2025,6.32
+CUS01092,2024-03-21,Meta Ads,Meta_Ads_2024,50.25
+CUS01093,2025-06-12,Google Search,Google_Search_2025,47.41
+CUS01094,2023-10-06,Google Search,Google_Search_2023,34.29
+CUS01095,2024-11-11,Email,Email_2024,8.57
+CUS01096,2025-08-06,Google Search,Google_Search_2025,26.35
+CUS01097,2024-09-05,Direct,Direct_2024,4.72
+CUS01098,2024-07-01,Email,Email_2024,12.38
+CUS01099,2023-03-20,Organic Search,Organic_Search_2023,8.32
+CUS01100,2024-09-21,Referral,Referral_2024,16.13
+CUS01101,2025-02-16,Organic Search,Organic_Search_2025,5.63
+CUS01102,2024-03-21,Meta Ads,Meta_Ads_2024,36.84
+CUS01103,2024-05-13,Organic Search,Organic_Search_2024,6.3
+CUS01104,2023-04-22,Google Search,Google_Search_2023,39.77
+CUS01105,2024-04-06,Meta Ads,Meta_Ads_2024,38.92
+CUS01106,2023-07-24,Organic Search,Organic_Search_2023,8.87
+CUS01107,2025-01-03,Organic Search,Organic_Search_2025,6.2
+CUS01108,2023-11-24,Google Search,Google_Search_2023,34.21
+CUS01109,2024-01-08,Referral,Referral_2024,21.12
+CUS01110,2023-04-19,Direct,Direct_2023,6.64
+CUS01111,2023-04-06,Organic Search,Organic_Search_2023,7.6
+CUS01112,2024-08-09,Google Search,Google_Search_2024,24.52
+CUS01113,2024-02-17,Organic Search,Organic_Search_2024,6.94
+CUS01114,2023-01-20,Direct,Direct_2023,3.72
+CUS01115,2024-02-10,Organic Search,Organic_Search_2024,5.21
+CUS01116,2023-04-24,Organic Search,Organic_Search_2023,7.86
+CUS01117,2023-10-08,Meta Ads,Meta_Ads_2023,27.54
+CUS01118,2024-05-23,Referral,Referral_2024,18.14
+CUS01119,2024-02-19,Meta Ads,Meta_Ads_2024,35.44
+CUS01120,2024-07-24,Google Search,Google_Search_2024,39.11
+CUS01121,2025-08-10,Google Search,Google_Search_2025,30.09
+CUS01122,2024-08-22,Organic Search,Organic_Search_2024,5.79
+CUS01123,2025-05-07,Organic Search,Organic_Search_2025,9.29
+CUS01124,2023-11-02,Direct,Direct_2023,5.83
+CUS01125,2024-01-12,Meta Ads,Meta_Ads_2024,31.92
+CUS01126,2023-01-01,Organic Search,Organic_Search_2023,7.48
+CUS01127,2023-10-05,Google Search,Google_Search_2023,31.74
+CUS01128,2024-01-05,Referral,Referral_2024,12.34
+CUS01129,2025-06-01,Google Search,Google_Search_2025,42.91
+CUS01130,2024-03-03,Email,Email_2024,10.45
+CUS01131,2024-09-04,Meta Ads,Meta_Ads_2024,45.83
+CUS01132,2023-03-15,Direct,Direct_2023,5.85
+CUS01133,2025-09-11,Google Search,Google_Search_2025,42.25
+CUS01134,2023-02-14,Google Search,Google_Search_2023,43.1
+CUS01135,2025-02-15,Meta Ads,Meta_Ads_2025,49.19
+CUS01136,2024-04-23,Google Search,Google_Search_2024,34.37
+CUS01137,2024-08-07,Organic Search,Organic_Search_2024,9.96
+CUS01138,2023-03-10,Organic Search,Organic_Search_2023,5.64
+CUS01139,2025-09-07,Organic Search,Organic_Search_2025,6.81
+CUS01140,2023-12-11,Influencer,Influencer_2023,67.0
+CUS01141,2025-09-05,Direct,Direct_2025,6.01
+CUS01142,2023-04-11,Google Search,Google_Search_2023,30.22
+CUS01143,2023-08-07,Meta Ads,Meta_Ads_2023,29.01
+CUS01144,2024-03-07,Google Search,Google_Search_2024,46.13
+CUS01145,2023-06-10,Google Search,Google_Search_2023,32.73
+CUS01146,2023-07-12,Meta Ads,Meta_Ads_2023,51.39
+CUS01147,2024-11-24,Meta Ads,Meta_Ads_2024,52.52
+CUS01148,2025-09-12,Google Search,Google_Search_2025,44.51
+CUS01149,2025-06-06,Meta Ads,Meta_Ads_2025,54.52
+CUS01150,2024-01-24,Google Search,Google_Search_2024,45.62
+CUS01151,2023-03-18,Google Search,Google_Search_2023,25.4
+CUS01152,2023-08-18,Google Search,Google_Search_2023,25.54
+CUS01153,2023-09-13,Meta Ads,Meta_Ads_2023,40.53
+CUS01154,2023-05-19,Organic Search,Organic_Search_2023,5.53
+CUS01155,2025-04-05,Organic Search,Organic_Search_2025,6.85
+CUS01156,2024-04-03,Organic Search,Organic_Search_2024,7.44
+CUS01157,2024-12-19,Organic Search,Organic_Search_2024,9.36
+CUS01158,2024-12-08,Direct,Direct_2024,5.22
+CUS01159,2024-07-24,Meta Ads,Meta_Ads_2024,27.88
+CUS01160,2023-12-21,Direct,Direct_2023,5.5
+CUS01161,2024-11-24,Google Search,Google_Search_2024,45.48
+CUS01162,2025-09-11,Direct,Direct_2025,5.55
+CUS01163,2024-07-09,Google Search,Google_Search_2024,37.25
+CUS01164,2023-05-02,Organic Search,Organic_Search_2023,7.43
+CUS01165,2023-09-15,Email,Email_2023,13.57
+CUS01166,2025-07-10,Organic Search,Organic_Search_2025,5.49
+CUS01167,2023-12-07,Email,Email_2023,7.92
+CUS01168,2024-02-14,Email,Email_2024,14.86
+CUS01169,2024-01-16,Meta Ads,Meta_Ads_2024,44.77
+CUS01170,2025-06-01,Google Search,Google_Search_2025,36.8
+CUS01171,2025-02-10,Meta Ads,Meta_Ads_2025,30.15
+CUS01172,2025-02-17,Meta Ads,Meta_Ads_2025,44.16
+CUS01173,2024-01-09,Meta Ads,Meta_Ads_2024,34.11
+CUS01174,2023-07-22,Organic Search,Organic_Search_2023,10.38
+CUS01175,2025-09-16,Email,Email_2025,12.19
+CUS01176,2025-07-04,Google Search,Google_Search_2025,44.71
+CUS01177,2023-01-16,Referral,Referral_2023,18.69
+CUS01178,2023-04-13,Google Search,Google_Search_2023,35.58
+CUS01179,2024-09-10,Google Search,Google_Search_2024,42.67
+CUS01180,2024-09-14,Referral,Referral_2024,21.04
+CUS01181,2023-09-02,Google Search,Google_Search_2023,43.73
+CUS01182,2023-07-11,Organic Search,Organic_Search_2023,7.62
+CUS01183,2024-10-11,Referral,Referral_2024,12.35
+CUS01184,2025-02-18,Google Search,Google_Search_2025,41.02
+CUS01185,2024-02-10,Google Search,Google_Search_2024,48.09
+CUS01186,2024-01-12,Meta Ads,Meta_Ads_2024,44.49
+CUS01187,2023-02-21,Referral,Referral_2023,12.19
+CUS01188,2025-07-05,Organic Search,Organic_Search_2025,5.87
+CUS01189,2023-01-25,Meta Ads,Meta_Ads_2023,49.73
+CUS01190,2024-06-04,Meta Ads,Meta_Ads_2024,49.27
+CUS01191,2023-11-22,Meta Ads,Meta_Ads_2023,37.57
+CUS01192,2025-05-08,Meta Ads,Meta_Ads_2025,52.87
+CUS01193,2023-06-10,Organic Search,Organic_Search_2023,6.35
+CUS01194,2025-05-20,Google Search,Google_Search_2025,40.64
+CUS01195,2023-11-17,Google Search,Google_Search_2023,32.18
+CUS01196,2023-12-13,Meta Ads,Meta_Ads_2023,47.95
+CUS01197,2024-04-22,Referral,Referral_2024,13.01
+CUS01198,2023-08-19,Meta Ads,Meta_Ads_2023,45.51
+CUS01199,2024-04-13,Google Search,Google_Search_2024,46.64
+CUS01200,2025-07-03,Organic Search,Organic_Search_2025,6.94
+CUS01201,2024-09-18,Organic Search,Organic_Search_2024,9.66
+CUS01202,2023-03-10,Organic Search,Organic_Search_2023,5.38
+CUS01203,2023-05-21,Meta Ads,Meta_Ads_2023,34.41
+CUS01204,2023-04-05,Meta Ads,Meta_Ads_2023,46.1
+CUS01205,2024-05-19,Influencer,Influencer_2024,36.44
+CUS01206,2024-09-22,Email,Email_2024,14.35
+CUS01207,2024-11-14,Organic Search,Organic_Search_2024,7.76
+CUS01208,2024-04-07,Referral,Referral_2024,18.95
+CUS01209,2024-06-14,Google Search,Google_Search_2024,25.86
+CUS01210,2023-04-07,Organic Search,Organic_Search_2023,10.49
+CUS01211,2024-05-24,Meta Ads,Meta_Ads_2024,47.38
+CUS01212,2024-08-11,Organic Search,Organic_Search_2024,9.45
+CUS01213,2024-08-23,Google Search,Google_Search_2024,36.44
+CUS01214,2024-06-16,Meta Ads,Meta_Ads_2024,42.32
+CUS01215,2025-01-14,Direct,Direct_2025,4.34
+CUS01216,2025-03-07,Organic Search,Organic_Search_2025,10.58
+CUS01217,2025-04-06,Google Search,Google_Search_2025,42.15
+CUS01218,2023-12-05,Organic Search,Organic_Search_2023,9.73
+CUS01219,2023-11-01,Google Search,Google_Search_2023,26.45
+CUS01220,2023-04-24,Email,Email_2023,15.52
+CUS01221,2023-09-16,Direct,Direct_2023,5.58
+CUS01222,2023-06-13,Meta Ads,Meta_Ads_2023,35.38
+CUS01223,2024-01-11,Organic Search,Organic_Search_2024,8.11
+CUS01224,2024-01-06,Meta Ads,Meta_Ads_2024,51.51
+CUS01225,2025-04-10,Google Search,Google_Search_2025,42.19
+CUS01226,2023-03-23,Meta Ads,Meta_Ads_2023,36.78
+CUS01227,2024-12-03,Referral,Referral_2024,22.57
+CUS01228,2024-02-14,Google Search,Google_Search_2024,28.5
+CUS01229,2023-02-23,Google Search,Google_Search_2023,41.89
+CUS01230,2023-05-11,Email,Email_2023,12.61
+CUS01231,2024-03-20,Direct,Direct_2024,5.73
+CUS01232,2025-09-18,Direct,Direct_2025,6.49
+CUS01233,2025-07-04,Meta Ads,Meta_Ads_2025,47.35
+CUS01234,2025-02-01,Organic Search,Organic_Search_2025,7.59
+CUS01235,2024-06-01,Organic Search,Organic_Search_2024,6.92
+CUS01236,2024-06-25,Organic Search,Organic_Search_2024,8.47
+CUS01237,2025-01-07,Google Search,Google_Search_2025,43.08
+CUS01238,2025-04-18,Direct,Direct_2025,4.48
+CUS01239,2024-11-19,Meta Ads,Meta_Ads_2024,48.62
+CUS01240,2024-03-23,Google Search,Google_Search_2024,45.2
+CUS01241,2024-03-18,Meta Ads,Meta_Ads_2024,34.0
+CUS01242,2023-06-23,Email,Email_2023,15.36
+CUS01243,2024-07-18,Email,Email_2024,9.29
+CUS01244,2023-11-09,Organic Search,Organic_Search_2023,9.04
+CUS01245,2023-08-13,Influencer,Influencer_2023,60.73
+CUS01246,2024-06-10,Google Search,Google_Search_2024,39.5
+CUS01247,2025-03-10,Meta Ads,Meta_Ads_2025,49.71
+CUS01248,2023-10-10,Email,Email_2023,9.98
+CUS01249,2023-05-15,Email,Email_2023,14.3
+CUS01250,2025-06-04,Direct,Direct_2025,5.2
+CUS01251,2025-06-02,Meta Ads,Meta_Ads_2025,40.13
+CUS01252,2023-02-20,Email,Email_2023,14.73
+CUS01253,2023-01-03,Meta Ads,Meta_Ads_2023,27.03
+CUS01254,2024-02-25,Organic Search,Organic_Search_2024,10.01
+CUS01255,2025-07-06,Direct,Direct_2025,5.42
+CUS01256,2023-05-18,Google Search,Google_Search_2023,35.39
+CUS01257,2023-05-06,Organic Search,Organic_Search_2023,8.03
+CUS01258,2023-08-14,Google Search,Google_Search_2023,24.76
+CUS01259,2024-03-16,Organic Search,Organic_Search_2024,7.9
+CUS01260,2025-09-24,Organic Search,Organic_Search_2025,7.2
+CUS01261,2023-06-19,Organic Search,Organic_Search_2023,6.05
+CUS01262,2023-09-03,Direct,Direct_2023,5.38
+CUS01263,2024-07-23,Organic Search,Organic_Search_2024,7.67
+CUS01264,2023-08-11,Organic Search,Organic_Search_2023,8.8
+CUS01265,2023-11-12,Google Search,Google_Search_2023,45.17
+CUS01266,2025-04-03,Organic Search,Organic_Search_2025,7.9
+CUS01267,2024-05-21,Organic Search,Organic_Search_2024,8.71
+CUS01268,2023-03-15,Email,Email_2023,14.21
+CUS01269,2023-07-14,Google Search,Google_Search_2023,25.55
+CUS01270,2025-08-21,Organic Search,Organic_Search_2025,9.89
+CUS01271,2023-12-16,Meta Ads,Meta_Ads_2023,43.23
+CUS01272,2024-03-16,Organic Search,Organic_Search_2024,6.7
+CUS01273,2025-07-01,Organic Search,Organic_Search_2025,7.54
+CUS01274,2025-08-15,Google Search,Google_Search_2025,33.16
+CUS01275,2023-02-13,Direct,Direct_2023,6.05
+CUS01276,2025-03-11,Organic Search,Organic_Search_2025,7.9
+CUS01277,2024-07-05,Organic Search,Organic_Search_2024,9.98
+CUS01278,2025-07-10,Organic Search,Organic_Search_2025,8.56
+CUS01279,2024-03-04,Meta Ads,Meta_Ads_2024,47.95
+CUS01280,2024-10-23,Meta Ads,Meta_Ads_2024,38.61
+CUS01281,2025-06-14,Organic Search,Organic_Search_2025,5.8
+CUS01282,2024-03-13,Google Search,Google_Search_2024,29.49
+CUS01283,2023-06-21,Direct,Direct_2023,4.54
+CUS01284,2023-10-10,Organic Search,Organic_Search_2023,9.84
+CUS01285,2025-05-03,Organic Search,Organic_Search_2025,6.54
+CUS01286,2025-05-06,Direct,Direct_2025,4.26
+CUS01287,2024-04-03,Meta Ads,Meta_Ads_2024,51.0
+CUS01288,2024-12-12,Google Search,Google_Search_2024,37.98
+CUS01289,2023-11-13,Referral,Referral_2023,21.24
+CUS01290,2024-01-10,Google Search,Google_Search_2024,31.3
+CUS01291,2024-03-13,Google Search,Google_Search_2024,39.48
+CUS01292,2024-12-17,Google Search,Google_Search_2024,23.96
+CUS01293,2023-05-14,Email,Email_2023,8.76
+CUS01294,2023-12-19,Organic Search,Organic_Search_2023,5.88
+CUS01295,2025-04-22,Google Search,Google_Search_2025,28.9
+CUS01296,2024-04-05,Referral,Referral_2024,13.11
+CUS01297,2023-07-23,Email,Email_2023,10.12
+CUS01298,2023-03-03,Google Search,Google_Search_2023,26.53
+CUS01299,2023-04-03,Meta Ads,Meta_Ads_2023,38.08
+CUS01300,2024-12-08,Referral,Referral_2024,11.83
